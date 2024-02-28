@@ -46,7 +46,19 @@
             }
           },
           {
-            "id": "bd09eacf09590fc2",
+            "id": "578650b7f21b8b49",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "50 Literature Notes/@alexanderssonSTUDYMETHODSPREDICT2009.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "34b9d24fc695f416",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -57,8 +69,7 @@
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -124,7 +135,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "50 Literature Notes/@alexanderssonSTUDYMETHODSPREDICT2009.md",
+                "file": "The red thread....md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -141,7 +152,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "50 Literature Notes/@alexanderssonSTUDYMETHODSPREDICT2009.md",
+                "file": "The red thread....md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -164,7 +175,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "50 Literature Notes/@alexanderssonSTUDYMETHODSPREDICT2009.md"
+                "file": "The red thread....md"
               }
             }
           },
@@ -193,8 +204,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "bd09eacf09590fc2",
+  "active": "c08b2bd793e327a5",
   "lastOpenFiles": [
+    "50 Literature Notes/@alexanderssonSTUDYMETHODSPREDICT2009.md",
     "The red thread....md",
     "50 Literature Notes/@marimongiovannettiEffectsHydrodynamicForces2020.md",
     "50 Literature Notes/@bassamExperimentalTestingSimulations2019a.md",
@@ -204,7 +216,6 @@
     "50 Literature Notes/@alexanderssonTHESISDEGREELICENTIATE2022.md",
     "50 Literature Notes/@alexanderssonSystemIdentificationVessel2022.md",
     "50 Literature Notes/@alexanderssonSystemIdentificationPhysics.md",
-    "50 Literature Notes/@alexanderssonSTUDYMETHODSPREDICT2009.md",
     "50 Literature Notes/@alexanderssonRolldecayestimators2022.md",
     "50 Literature Notes/@alexanderssonPredictionRollMotion2021.md",
     "50 Literature Notes/@alexanderssonMartinlarsalbertRolldecayestimators2020.md",
