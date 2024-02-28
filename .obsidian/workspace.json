@@ -1,0 +1,194 @@
+{
+  "main": {
+    "id": "6ac04c6a94810226",
+    "type": "split",
+    "children": [
+      {
+        "id": "1858941f5095acea",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c08b2bd793e327a5",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "The red thread....md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "170c929488beabce",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "50 Literature Notes/@alexanderssonTHESISDEGREELICENTIATE2022.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "f421dfc49e72e4b7",
+    "type": "split",
+    "children": [
+      {
+        "id": "61ebad92ff421fb2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bb645e77f52d7745",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "e607c6c3d62548ee",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "2cc6b8ce2853b322",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "a4f61f8340aaea35",
+    "type": "split",
+    "children": [
+      {
+        "id": "9b2db1c7de746397",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5deeb472f584e246",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "The red thread....md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "2d371827efa47cc2",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "The red thread....md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "8b38563aedf92ddc",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "d475589ee060256b",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "The red thread....md"
+              }
+            }
+          },
+          {
+            "id": "43b1270ae7c2e3eb",
+            "type": "leaf",
+            "state": {
+              "type": "ReferenceListView",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 381.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "c08b2bd793e327a5",
+  "lastOpenFiles": [
+    "50 Literature Notes/@alexanderssonTHESISDEGREELICENTIATE2022.md",
+    "The red thread....md",
+    "50 Literature Notes/@alexanderssonAnalysisRollDamping2021.md",
+    "50 Literature Notes/@alexanderssonSystemIdentificationVessel2022.md",
+    "50 Literature Notes/@alexanderssonMartinlarsalbertRolldecayestimators2020.md",
+    "flowchart.canvas",
+    "50 Literature Notes/@ikedaRollDampingSharpCornered1993.md",
+    "80 Meta/82 Templates/ZI_template.md",
+    "80 Meta/82 Templates",
+    "50 Literature Notes",
+    "New folder",
+    "80 Meta/81 Attachments",
+    "80 Meta/New folder",
+    "80 Meta",
+    "template.md",
+    "templates",
+    "PhD Thesis.json",
+    "Screenshot 2024-02-19 131840.png",
+    "link.md",
+    "create a link.md"
+  ]
+}

@@ -1,0 +1,9 @@
+{
+	"nodes":[
+		{"id":"95a7f40ffa5b6fd9","type":"file","file":"Screenshot 2024-02-19 131840.png","x":-120,"y":100,"width":400,"height":236},
+		{"id":"e7e6011ce22b64dc","type":"text","text":"","x":360,"y":188,"width":250,"height":60}
+	],
+	"edges":[
+		{"id":"e6665c2a53586643","fromNode":"95a7f40ffa5b6fd9","fromSide":"right","toNode":"e7e6011ce22b64dc","toSide":"left"}
+	]
+}
