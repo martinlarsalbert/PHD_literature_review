@@ -62,7 +62,15 @@ a_3 : lewis section coefficient
 >.
 > 
 # Notes
+%% begin notes %%
+- First thing
+- Second thing
+things to add each time you import:
+
+%% end notes %%
+
 >.
+
 
 
 # Annotations%% begin annotations %%
@@ -70,4 +78,4 @@ a_3 : lewis section coefficient
 
 %% end annotations %%
 
-%% Import Date: 2024-02-28T11:16:28.281+01:00 %%
+%% Import Date: 2024-02-28T11:31:58.197+01:00 %%

@@ -49,8 +49,16 @@ dateread:
 > {%- endif -%}.
 > 
 # Notes
-> {%- if markdownNotes %}
+{% persist "notes" %}{% if isFirstImport %}
+- First thing
+- Second thing
+things to add each time you import:
+{% endif %}
+{% endpersist %}
+
+>{%- if markdownNotes %}
 >{{markdownNotes}}{%- endif -%}.
+
 
 
 # Annotations

@@ -53,14 +53,22 @@ waves.
 >.
 > 
 # Notes
->.KTH master thesis
+%% begin notes %%
+- First thing
+- Second thing
+things to add each time you import:
+
+%% end notes %%
+
+>.
+
 
 
 # Annotations%% begin annotations %%
 
 
 
-### Imported: 2024-02-28 10:56 am
+### Imported: 2024-02-28 11:31 am
 
 
 
@@ -76,4 +84,4 @@ waves.
 
 %% end annotations %%
 
-%% Import Date: 2024-02-28T11:16:28.363+01:00 %%
+%% Import Date: 2024-02-28T11:31:58.342+01:00 %%

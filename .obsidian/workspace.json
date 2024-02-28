@@ -34,18 +34,6 @@
             }
           },
           {
-            "id": "d658578db1dc8217",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "80 Meta/82 Templates/ZI_template.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "3c5e77e7ba68c103",
             "type": "leaf",
             "state": {
@@ -58,102 +46,19 @@
             }
           },
           {
-            "id": "f341ce288bcf7337",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "50 Literature Notes/@alexanderssonAnalysisRollDamping2021.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "867a42d80e27f80a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "50 Literature Notes/@alexanderssonAnalysisRollDamping2021.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8fd26e2e57545aa6",
+            "id": "bd09eacf09590fc2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "50 Literature Notes/@alexanderssonSTUDYMETHODSPREDICT2009.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "196c90a8048cb431",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "50 Literature Notes/@alexanderssonSTUDYMETHODSPREDICT2009.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4e18f75a35a970e5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "50 Literature Notes/@alexanderssonSTUDYMETHODSPREDICT2009.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "92f984d6e83d5a1e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "50 Literature Notes/@alexanderssonSTUDYMETHODSPREDICT2009.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "160f86c888ff00bc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "50 Literature Notes/@alexanderssonVirtualCaptiveTests2017.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9ee327d5febd6a80",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "50 Literature Notes/@alexanderssonKVLCC2RollDecay2021.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -219,7 +124,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "The red thread....md",
+                "file": "50 Literature Notes/@alexanderssonSTUDYMETHODSPREDICT2009.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -236,7 +141,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "The red thread....md",
+                "file": "50 Literature Notes/@alexanderssonSTUDYMETHODSPREDICT2009.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -259,7 +164,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "The red thread....md"
+                "file": "50 Literature Notes/@alexanderssonSTUDYMETHODSPREDICT2009.md"
               }
             }
           },
@@ -288,32 +193,32 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c08b2bd793e327a5",
+  "active": "bd09eacf09590fc2",
   "lastOpenFiles": [
-    "50 Literature Notes/@alexanderssonKVLCC2RollDecay2021.md",
     "The red thread....md",
     "50 Literature Notes/@marimongiovannettiEffectsHydrodynamicForces2020.md",
     "50 Literature Notes/@bassamExperimentalTestingSimulations2019a.md",
     "50 Literature Notes/@bassamExperimentalTestingSimulations2019.md",
-    "50 Literature Notes/@alexanderssonSystemIdentificationPhysics.md",
-    "50 Literature Notes/@alexanderssonRolldecayestimators2022.md",
-    "50 Literature Notes/@alexanderssonPredictionRollMotion2021.md",
-    "50 Literature Notes/@alexanderssonIkedaTwodimensionalCylinders2021a.md",
-    "50 Literature Notes/@alexanderssonIkedaTwodimensionalCylinders.md",
-    "50 Literature Notes/@alexanderssonCodePaperSystem2022.md",
-    "50 Literature Notes/@alexanderssonVirtualCaptiveTests2017.md",
-    "README.md",
-    "50 Literature Notes/@alexanderssonSTUDYMETHODSPREDICT2009.md",
-    "80 Meta/82 Templates/ZI_template.md",
-    "50 Literature Notes/@alexanderssonAnalysisRollDamping2021.md",
-    "50 Literature Notes/@ikedaRollDampingSharpCornered1993.md",
     "50 Literature Notes/@alexanderssonWPCCManoeuvringModel2024.md",
+    "50 Literature Notes/@alexanderssonVirtualCaptiveTests2017.md",
     "50 Literature Notes/@alexanderssonTHESISDEGREELICENTIATE2022.md",
     "50 Literature Notes/@alexanderssonSystemIdentificationVessel2022.md",
+    "50 Literature Notes/@alexanderssonSystemIdentificationPhysics.md",
+    "50 Literature Notes/@alexanderssonSTUDYMETHODSPREDICT2009.md",
+    "50 Literature Notes/@alexanderssonRolldecayestimators2022.md",
+    "50 Literature Notes/@alexanderssonPredictionRollMotion2021.md",
     "50 Literature Notes/@alexanderssonMartinlarsalbertRolldecayestimators2020.md",
+    "50 Literature Notes/@alexanderssonKVLCC2RollDecay2021.md",
     "50 Literature Notes/@alexanderssonIkedaTwodimensionalCylinders2021.md",
-    "50 Literature Notes/@alexanderssonComparisonShipManoeuvrability2022b.md",
+    "50 Literature Notes/@alexanderssonIkedaTwodimensionalCylinders.md",
     "50 Literature Notes/@alexanderssonComparisonShipManoeuvrability2022.md",
+    "50 Literature Notes/@alexanderssonCodePaperSystem2022.md",
+    "50 Literature Notes/@alexanderssonAnalysisRollDamping2021.md",
+    "80 Meta/82 Templates/ZI_template.md",
+    "README.md",
+    "50 Literature Notes/@alexanderssonIkedaTwodimensionalCylinders2021a.md",
+    "50 Literature Notes/@ikedaRollDampingSharpCornered1993.md",
+    "50 Literature Notes/@alexanderssonComparisonShipManoeuvrability2022b.md",
     "alexanderssonSTUDYMETHODSPREDICT2009.md",
     "alexanderssonComparisonShipManoeuvrability2022b.md",
     "flowchart.canvas",

@@ -40,7 +40,15 @@ dateread:
 >.
 > 
 # Notes
+%% begin notes %%
+- First thing
+- Second thing
+things to add each time you import:
+
+%% end notes %%
+
 >.
+
 
 
 # Annotations%% begin annotations %%
@@ -48,4 +56,4 @@ dateread:
 
 %% end annotations %%
 
-%% Import Date: 2024-02-28T11:16:28.341+01:00 %%
+%% Import Date: 2024-02-28T11:31:58.303+01:00 %%

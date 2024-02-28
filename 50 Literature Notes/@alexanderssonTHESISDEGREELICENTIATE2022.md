@@ -66,37 +66,22 @@ has been applied.
 >.
 > 
 # Notes
+%% begin notes %%
+- First thing
+- Second thing
+things to add each time you import:
+
+%% end notes %%
+
 >.
+
 
 
 # Annotations%% begin annotations %%
 
 
 
-### Imported: 2024-02-27 11:18 am
-
-
-
-<mark style="background-color: #ffd400">Quote</mark>
-> Extended Kalman filter
-
-<mark style="background-color: #ffd400">Quote</mark>
-> Inverse dynamics
-
-<mark style="background-color: #ffd400">Quote</mark>
-> Multicollinearity
-
-<mark style="background-color: #ffd400">Quote</mark>
-> Ship digital twin
-
-<mark style="background-color: #ffd400">Quote</mark>
-> Ship manoeuvring
-
-<mark style="background-color: #ffd400">Quote</mark>
-> System identification
-
-
-### Imported: 2024-02-28 11:07 am
+### Imported: 2024-02-28 11:31 am
 
 
 
@@ -121,4 +106,4 @@ has been applied.
 
 %% end annotations %%
 
-%% Import Date: 2024-02-28T11:16:28.445+01:00 %%
+%% Import Date: 2024-02-28T11:31:58.406+01:00 %%
