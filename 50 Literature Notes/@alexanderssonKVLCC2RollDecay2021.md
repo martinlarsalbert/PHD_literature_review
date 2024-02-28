@@ -7,7 +7,7 @@ dateread:
 ---
 
 > [!Cite]
-> Alexandersson, M., & Kjellberg, M. (2021). _KVLCC2 roll decay_. _1_. [https://doi.org/10.17632/2stvkyngj9.1](https://doi.org/10.17632/2stvkyngj9.1)
+> Alexandersson, M., & Kjellberg, M. (2021). _KVLCC2 roll decay_ [dataset]. Mendeley. [https://doi.org/10.17632/2stvkyngj9.1](https://doi.org/10.17632/2stvkyngj9.1)
 
 >[!Synth]
 >**Contribution**:: 
@@ -23,9 +23,7 @@ dateread:
 > **Year**:: 2021  
 > **Date**:: 2021-02-22  
 > **Citekey**:: alexanderssonKVLCC2RollDecay2021  
-> **itemType**:: journalArticle  
-> **Journal**:: **  
-> **Volume**:: 1  
+> **itemType**:: dataset  
 > **DOI**:: 10.17632/2stvkyngj9.1    
 
 > [!LINK] 
@@ -45,4 +43,4 @@ dateread:
 
 %% end annotations %%
 
-%% Import Date: 2024-02-28T11:08:54.155+01:00 %%
+%% Import Date: 2024-02-28T11:13:34.314+01:00 %%
