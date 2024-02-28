@@ -49,6 +49,16 @@ dateread:
 > {%- endif -%}.
 > 
 # Notes
+
+| <mark class="hltr-grey">Highlight Color</mark> | Meaning                       |     |
+| ---------------------------------------------- | ----------------------------- | --- |
+| <mark class="hltr-red">Red</mark>              | Disagree with Author          |     |
+| <mark class="hltr-orange">Orange</mark>        | Important Point By Author     |     |
+| <mark class="hltr-yellow">Yellow</mark>        | Interesting Point             |     |
+| <mark class="hltr-green">Green</mark>          | Important To Me               |     |
+| <mark class="hltr-blue">Blue</mark>            | Notes After Initial Iteration |     |
+| <mark class="hltr-purple">Purple</mark>        | Literary Note To Lookup Later |     |
+
 {% persist "notes" %}{% if isFirstImport %}
 - First thing
 - Second thing
@@ -62,26 +72,13 @@ things to add each time you import:
 
 
 # Annotations
-{%- macro calloutHeader(type, color) -%}  
-{%- if type == "highlight" -%}  
-<mark style="background-color: {{color}}">Quote</mark>  
-{%- endif -%}
-
-{%- if type == "text" -%}  
-Note  
-{%- endif -%}  
-{%- endmacro -%}
-
-{% persist "annotations" %}
-{% set newAnnotations = annotations | filterby("date", "dateafter", lastImportDate) %}
-{% if newAnnotations.length > 0 %}
-
-### Imported: {{importDate | format("YYYY-MM-DD h:mm a")}}
-
-
-{% for a in newAnnotations %}
-{{calloutHeader(a.type, a.color)}}
-> {{a.annotatedText}}
-{% endfor %}
-{% endif %}
-{% endpersist %}
+{% for annotation in annotations -%}
+    {%- if annotation.annotatedText -%} 
+		- <mark class="hltr-{{annotation.colorCategory | lower}}">"{{annotation.annotatedText | escape}}”</mark> [Page {{annotation.page}}](zotero://open-pdf/library/items/{{annotation.attachment.itemKey}}?page={{annotation.page}}&annotation={{annotation.id}})
+    {%- endif %} 
+    {%- if annotation.imageRelativePath -%}
+    ![[{{annotation.imageRelativePath}}]] {%- endif %} 
+{% if annotation.comment %} 
+	- {{annotation.comment}} 
+{% endif %} 
+{% endfor -%}
