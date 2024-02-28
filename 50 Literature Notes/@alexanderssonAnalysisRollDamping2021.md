@@ -63,6 +63,18 @@ things to add each time you import:
  Annotations
 - <mark class="hltr-yellow">"roll damping”</mark> [Page 2](zotero://open-pdf/library/items/DQSWISD4?page=2&annotation=V89VLYUN) 
  
+![[80 Meta/81 Attachments/alexanderssonAnalysisRollDamping2021/image-3-x383-y488.png]] 
+ 
+	- linear 
+ 
+![[80 Meta/81 Attachments/alexanderssonAnalysisRollDamping2021/image-3-x359-y467.png]] 
+ 
+	- quadratic 
+ 
+![[80 Meta/81 Attachments/alexanderssonAnalysisRollDamping2021/image-3-x369-y409.png]] 
+ 
+	- cubic 
+ 
 ![[80 Meta/81 Attachments/alexanderssonAnalysisRollDamping2021/image-4-x322-y65.png]] 
  
 	- Nonlinear damping 
@@ -73,4 +85,4 @@ things to add each time you import:
  
 
 
-%% Import Date: 2024-02-28T16:12:45.284+01:00 %%
+%% Import Date: 2024-02-28T17:37:16.524+01:00 %%

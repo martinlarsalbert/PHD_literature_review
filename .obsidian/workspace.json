@@ -52,8 +52,69 @@
               "type": "graph",
               "state": {}
             }
+          },
+          {
+            "id": "b8f72d8961f22157",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "50 Literature Notes/@alexanderssonAnalysisRollDamping2021.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3851aa7164a058f2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "50 Literature Notes/@alexanderssonAnalysisRollDamping2021.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f4f9c3e8fac13641",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "50 Literature Notes/@alexanderssonAnalysisRollDamping2021.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f88f5af8b7149f3d",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "d7ca1789dbd0b9b7",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "5e1430b2ddeda8bf",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 9
       }
     ],
     "direction": "vertical"
@@ -119,7 +180,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "The red thread....md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,7 +196,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "The red thread....md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,9 +217,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "The red thread....md"
-              }
+              "state": {}
             }
           },
           {
@@ -176,7 +233,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 914.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -188,9 +245,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c08b2bd793e327a5",
+  "active": "5e1430b2ddeda8bf",
   "lastOpenFiles": [
+    "The red thread....md",
+    "@imoFinalizationSecondGeneration2016.md",
+    "50 Literature Notes/@kawaharaSimplePredictionFormula2011a.md",
     "50 Literature Notes/@alexanderssonAnalysisRollDamping2021.md",
+    "80.md",
+    "80 Meta/81 Attachments/alexanderssonAnalysisRollDamping2021/image-3-x369-y409.png",
+    "80 Meta/81 Attachments/alexanderssonAnalysisRollDamping2021/image-3-x359-y467.png",
+    "80 Meta/81 Attachments/alexanderssonAnalysisRollDamping2021/image-3-x383-y488.png",
     "80 Meta/82 Templates/ZI_template.md",
     "80 Meta/81 Attachments/alexanderssonAnalysisRollDamping2021/image-4-x322-y65.png",
     "80 Meta/81 Attachments/alexanderssonAnalysisRollDamping2021",
@@ -208,7 +272,6 @@
     "50 Literature Notes/@alexanderssonIkedaTwodimensionalCylinders2021.md",
     "50 Literature Notes/@alexanderssonComparisonShipManoeuvrability2022.md",
     "50 Literature Notes/@alexanderssonCodePaperSystem2022.md",
-    "The red thread....md",
     "README.md",
     "50 Literature Notes/@bassamExperimentalTestingSimulations2019.md",
     "publish.css",
@@ -216,8 +279,6 @@
     "bassamExperimentalTestingSimulations2019a.md",
     "bassamExperimentalTestingSimulations2019.md",
     "alexanderssonWPCCManoeuvringModel2024.md",
-    "alexanderssonVirtualCaptiveTests2017.md",
-    "alexanderssonTHESISDEGREELICENTIATE2022.md",
     "flowchart.canvas",
     "80 Meta/82 Templates",
     "50 Literature Notes",
