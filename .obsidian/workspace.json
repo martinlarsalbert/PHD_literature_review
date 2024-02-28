@@ -32,8 +32,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "fb7ee36ce7f0864e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -99,7 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "The red thread....md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "The red thread....md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +152,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "The red thread....md"
+                "file": "README.md"
               }
             }
           },
@@ -168,12 +181,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c08b2bd793e327a5",
+  "active": "fb7ee36ce7f0864e",
   "lastOpenFiles": [
+    "The red thread....md",
     "README.md",
     "The red thread... - Copy.md",
     "50 Literature Notes/@alexanderssonTHESISDEGREELICENTIATE2022.md",
-    "The red thread....md",
     "50 Literature Notes/@alexanderssonAnalysisRollDamping2021.md",
     "50 Literature Notes/@alexanderssonSystemIdentificationVessel2022.md",
     "50 Literature Notes/@alexanderssonMartinlarsalbertRolldecayestimators2020.md",

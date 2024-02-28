@@ -1,22 +1,2 @@
-
-[[@alexanderssonAnalysisRollDamping2021]]
-[[@alexanderssonSystemIdentificationVessel2022]]
-The licentiate thesis [[@alexanderssonTHESISDEGREELICENTIATE2022]]
-
-
-
-
-
-
-```dataview  
-TABLE  
-title as Title,  
-itemType as Item,  
-status as Status,  
-dateread as Read,  
-contribution as Contribution  
-WHERE contains(tags, "papers")  
-SORT Year ASC
-```
-
-
+# PhD literature review
+This is the literature review for my PhD in [Obsidian](https://obsidian.md/).
