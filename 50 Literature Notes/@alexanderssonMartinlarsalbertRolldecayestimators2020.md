@@ -19,7 +19,8 @@ dateread:
 > **FirstProgrammer**:: Alexandersson, Martin  
 ~    
 > **Title**:: martinlarsalbert/rolldecay-estimators  
-> **Year**:: 2020   
+> **Year**:: 2020  
+> **Date**:: 2020-05-20  
 > **Citekey**:: alexanderssonMartinlarsalbertRolldecayestimators2020  
 > **itemType**:: computerProgram    
 
@@ -40,4 +41,4 @@ dateread:
 
 %% end annotations %%
 
-%% Import Date: 2024-02-28T09:12:18.403+01:00 %%
+%% Import Date: 2024-02-28T11:08:54.171+01:00 %%

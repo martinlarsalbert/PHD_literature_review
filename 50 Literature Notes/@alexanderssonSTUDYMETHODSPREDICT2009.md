@@ -26,7 +26,7 @@ dateread:
 
 > [!LINK] 
 >
->  [Full Text PDF](file://C:\Zotero\storage\ZMSE5Y9A\Alexandersson%20-%202009%20-%20A%20STUDY%20OF%20METHODS%20TO%20PREDICT%20ADDED%20RESISTANCE%20IN%20.pdf).
+>  [Full Text PDF](file://C:/Zotero/storage/ZMSE5Y9A/Alexandersson%20-%202009%20-%20A%20STUDY%20OF%20METHODS%20TO%20PREDICT%20ADDED%20RESISTANCE%20IN%20.pdf).
 
 > [!Abstract]
 >
@@ -59,6 +59,21 @@ waves.
 # Annotations%% begin annotations %%
 
 
+
+### Imported: 2024-02-28 10:56 am
+
+
+
+<mark style="background-color: #ffd400">Quote</mark>
+> Gerritsma and Beukelman’s method
+
+<mark style="background-color: #ffd400">Quote</mark>
+> Royal Institute of Technology
+
+<mark style="background-color: #ffd400">Quote</mark>
+> Mikael Palmquis
+
+
 %% end annotations %%
 
-%% Import Date: 2024-02-28T09:43:17.131+01:00 %%
+%% Import Date: 2024-02-28T11:08:54.235+01:00 %%

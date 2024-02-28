@@ -25,7 +25,7 @@ title as Title,
 itemType as Item,  
 contribution as Contribution  
 WHERE contains(tags, "lic_paper")  
-SORT Date ASC
+SORT Year Asc, Date ASC
 ```
 
 

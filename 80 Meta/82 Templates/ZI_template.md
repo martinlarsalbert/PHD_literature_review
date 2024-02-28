@@ -41,7 +41,7 @@ dateread:
 
 > [!LINK] 
 > {%- for attachment in attachments | filterby("path", "endswith", ".pdf") %}
->  [{{attachment.title}}](file://{{attachment.path | replace(" ", "%20")}})  {%- endfor -%}.
+>  [{{attachment.title}}](file://{{attachment.path | replace("\\", "/") | replace(" ", "%20")}})  {%- endfor -%}.
 
 > [!Abstract]
 > {%- if abstractNote %}

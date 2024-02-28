@@ -1,13 +1,13 @@
 ---
 category: literaturenote
-tags: Hydrodynamics, Seakeeping, Ship Maneuvering, Hydrodynamic Experiment, Ship Design
+tags: 
 citekey: alexanderssonKVLCC2RollDecay2021
 status: unread
 dateread:
 ---
 
 > [!Cite]
-> Alexandersson, M. (2021). KVLCC2 roll decay [dataset]. In _Mendeley Data_ (Vol. V1). [https://doi.org/10.17632/2stvkyngj9.1](https://doi.org/10.17632/2stvkyngj9.1)
+> Alexandersson, M., & Kjellberg, M. (2021). _KVLCC2 roll decay_. _1_. [https://doi.org/10.17632/2stvkyngj9.1](https://doi.org/10.17632/2stvkyngj9.1)
 
 >[!Synth]
 >**Contribution**:: 
@@ -17,12 +17,15 @@ dateread:
 
 >[!md]
 > **FirstAuthor**:: Alexandersson, Martin  
-~> **FirstContributor**:: Kjellberg, Martin  
+> **Author**:: Kjellberg, Martin  
 ~    
 > **Title**:: KVLCC2 roll decay  
-> **Year**:: 2021   
+> **Year**:: 2021  
+> **Date**:: 2021-02-22  
 > **Citekey**:: alexanderssonKVLCC2RollDecay2021  
-> **itemType**:: dataset  
+> **itemType**:: journalArticle  
+> **Journal**:: **  
+> **Volume**:: 1  
 > **DOI**:: 10.17632/2stvkyngj9.1    
 
 > [!LINK] 
@@ -42,4 +45,4 @@ dateread:
 
 %% end annotations %%
 
-%% Import Date: 2024-02-28T09:12:17.527+01:00 %%
+%% Import Date: 2024-02-28T11:08:54.155+01:00 %%

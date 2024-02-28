@@ -21,7 +21,8 @@ dateread:
 > **Author**:: Ringsberg, Jonas W.  
 ~    
 > **Title**:: Analysis of roll damping model scale data  
-> **Year**:: 2021   
+> **Year**:: 2021  
+> **Date**:: 2021-04-13  
 > **Citekey**:: alexanderssonAnalysisRollDamping2021  
 > **itemType**:: journalArticle  
 > **Journal**:: *Ships and Offshore Structures*  
@@ -32,7 +33,7 @@ dateread:
 
 > [!LINK] 
 >
->  [Full Text PDF](file://C:\Zotero\storage\DQSWISD4\Alexandersson%20et%20al.%20-%202021%20-%20Analysis%20of%20roll%20damping%20model%20scale%20data.pdf).
+>  [Full Text PDF](file://C:/Zotero/storage/DQSWISD4/Alexandersson%20et%20al.%20-%202021%20-%20Analysis%20of%20roll%20damping%20model%20scale%20data.pdf).
 
 > [!Abstract]
 >
@@ -48,4 +49,4 @@ dateread:
 
 %% end annotations %%
 
-%% Import Date: 2024-02-28T08:39:04.201+01:00 %%
+%% Import Date: 2024-02-28T11:08:54.019+01:00 %%

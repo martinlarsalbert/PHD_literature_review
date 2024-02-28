@@ -19,13 +19,14 @@ dateread:
 > **FirstAuthor**:: Alexandersson, Martin  
 ~    
 > **Title**:: THESIS FOR THE DEGREE OF LICENTIATE OF ENGINEERING Rigid Body Ship Dynamics System Identification in Calm Waters  
-> **Year**:: 2022   
+> **Year**:: 2022  
+> **Date**:: 2022-12-01  
 > **Citekey**:: alexanderssonTHESISDEGREELICENTIATE2022  
 > **itemType**:: thesis    
 
 > [!LINK] 
 >
->  [Full Text PDF](file://C:\Zotero\storage\63QB3GCR\Alexandersson%20-%202022%20-%20THESIS%20FOR%20THE%20DEGREE%20OF%20LICENTIATE%20OF%20ENGINEERING.pdf).
+>  [Full Text PDF](file://C:/Zotero/storage/63QB3GCR/Alexandersson%20-%202022%20-%20THESIS%20FOR%20THE%20DEGREE%20OF%20LICENTIATE%20OF%20ENGINEERING.pdf).
 
 > [!Abstract]
 >
@@ -95,6 +96,29 @@ has been applied.
 > System identification
 
 
+### Imported: 2024-02-28 11:07 am
+
+
+
+<mark style="background-color: #ffd400">Quote</mark>
+> Extended Kalman filter
+
+<mark style="background-color: #ffd400">Quote</mark>
+> Inverse dynamics
+
+<mark style="background-color: #ffd400">Quote</mark>
+> Multicollinearity
+
+<mark style="background-color: #ffd400">Quote</mark>
+> Ship digital twin
+
+<mark style="background-color: #ffd400">Quote</mark>
+> Ship manoeuvring
+
+<mark style="background-color: #ffd400">Quote</mark>
+> System identification
+
+
 %% end annotations %%
 
-%% Import Date: 2024-02-28T08:42:25.959+01:00 %%
+%% Import Date: 2024-02-28T11:08:54.302+01:00 %%

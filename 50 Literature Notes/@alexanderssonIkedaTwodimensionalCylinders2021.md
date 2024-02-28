@@ -7,7 +7,7 @@ dateread:
 ---
 
 > [!Cite]
-> Alexandersson, M. (2021). Ikeda two-dimensional cylinders [dataset]. In _Mendeley Data_ (Vol. V1). [https://doi.org/10.17632/p3r9nmtvyj.1](https://doi.org/10.17632/p3r9nmtvyj.1)
+> Alexandersson, M. (2021). _Ikeda two-dimensional cylinders_ [dataset]. Mendeley. [https://doi.org/10.17632/P3R9NMTVYJ.1](https://doi.org/10.17632/P3R9NMTVYJ.1)
 
 >[!Synth]
 >**Contribution**:: 
@@ -19,10 +19,11 @@ dateread:
 > **FirstAuthor**:: Alexandersson, Martin  
 ~    
 > **Title**:: Ikeda two-dimensional cylinders  
-> **Year**:: 2021   
+> **Year**:: 2021  
+> **Date**:: 2021-02-22  
 > **Citekey**:: alexanderssonIkedaTwodimensionalCylinders2021  
 > **itemType**:: dataset  
-> **DOI**:: 10.17632/p3r9nmtvyj.1    
+> **DOI**:: 10.17632/P3R9NMTVYJ.1    
 
 > [!LINK] 
 >.
@@ -41,4 +42,4 @@ dateread:
 
 %% end annotations %%
 
-%% Import Date: 2024-02-28T09:08:22.294+01:00 %%
+%% Import Date: 2024-02-28T11:08:54.119+01:00 %%

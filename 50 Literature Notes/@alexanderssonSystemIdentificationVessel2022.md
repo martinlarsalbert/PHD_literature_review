@@ -21,7 +21,8 @@ dateread:
 > **Author**:: Ringsberg, Jonas W.  
 ~    
 > **Title**:: System identification of Vessel Manoeuvring Models  
-> **Year**:: 2022   
+> **Year**:: 2022  
+> **Date**:: 2022-12-15  
 > **Citekey**:: alexanderssonSystemIdentificationVessel2022  
 > **itemType**:: journalArticle  
 > **Journal**:: *Ocean Engineering*  
@@ -46,4 +47,4 @@ dateread:
 
 %% end annotations %%
 
-%% Import Date: 2024-02-28T08:41:46.444+01:00 %%
+%% Import Date: 2024-02-28T11:08:54.277+01:00 %%
