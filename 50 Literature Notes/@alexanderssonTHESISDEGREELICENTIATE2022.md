@@ -1,14 +1,13 @@
 ---
 category: literaturenote
-tags:
-  - papers
+tags: lic_thesis
 citekey: alexanderssonTHESISDEGREELICENTIATE2022
 status: unread
 dateread:
 ---
 
 > [!Cite]
-> Alexandersson, M., 2022. THESIS FOR THE DEGREE OF LICENTIATE OF ENGINEERING Rigid Body Ship Dynamics System Identification in Calm Waters. [https://doi.org/10.13140/RG.2.2.23950.02889](https://doi.org/10.13140/RG.2.2.23950.02889)
+> Alexandersson, M. (2022). _THESIS FOR THE DEGREE OF LICENTIATE OF ENGINEERING Rigid Body Ship Dynamics System Identification in Calm Waters_. [https://doi.org/10.13140/RG.2.2.23950.02889](https://doi.org/10.13140/RG.2.2.23950.02889)
 
 >[!Synth]
 >**Contribution**:: 
@@ -98,4 +97,4 @@ has been applied.
 
 %% end annotations %%
 
-%% Import Date: 2024-02-27T11:18:58.750+01:00 %%
+%% Import Date: 2024-02-28T08:42:25.959+01:00 %%

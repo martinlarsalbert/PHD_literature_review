@@ -1,21 +1,12 @@
+![](https://www.staffanstorpshk.se/images/1271/37381/1272819.JPG)
 
-[[@alexanderssonAnalysisRollDamping2021]]
-[[@alexanderssonSystemIdentificationVessel2022]]
-The licentiate thesis [[@alexanderssonTHESISDEGREELICENTIATE2022]]
-
-
-
-
-
-
+The licentiate thesis [[@alexanderssonTHESISDEGREELICENTIATE2022]] consisted of the following to papers:
 ```dataview  
-TABLE  
+TABLE
 title as Title,  
 itemType as Item,  
-status as Status,  
-dateread as Read,  
 contribution as Contribution  
-WHERE contains(tags, "papers")  
+WHERE contains(tags, "lic_paper")  
 SORT Year ASC
 ```
 

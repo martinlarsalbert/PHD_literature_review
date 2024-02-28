@@ -1,14 +1,13 @@
 ---
 category: literaturenote
-tags:
-  - papers
+tags: Extended Kalman filter, Inverse dynamics, lic_paper, Multicollinearity, RTS smoother, Ship manoeuvring, System identification
 citekey: alexanderssonSystemIdentificationVessel2022
 status: unread
 dateread:
 ---
 
 > [!Cite]
-> Alexandersson, M., Mao, W., & Ringsberg, J. W. (2022). System Identification of Vessel Manoeuvring Models. _Ocean Engineering_, _266_. [https://doi.org/10.1016/j.oceaneng.2022.112940](https://doi.org/10.1016/j.oceaneng.2022.112940)
+> Alexandersson, M., Mao, W., & Ringsberg, J. W. (2022). System identification of Vessel Manoeuvring Models. _Ocean Engineering_, _266_, 112940. [https://doi.org/10.1016/j.oceaneng.2022.112940](https://doi.org/10.1016/j.oceaneng.2022.112940)
 
 >[!Synth]
 >**Contribution**:: 
@@ -21,21 +20,21 @@ dateread:
 > **Author**:: Mao, Wengang  
 > **Author**:: Ringsberg, Jonas W.  
 ~    
-> **Title**:: System Identification of Vessel Manoeuvring Models  
+> **Title**:: System identification of Vessel Manoeuvring Models  
 > **Year**:: 2022   
 > **Citekey**:: alexanderssonSystemIdentificationVessel2022  
 > **itemType**:: journalArticle  
 > **Journal**:: *Ocean Engineering*  
-> **Volume**:: 266  
+> **Volume**:: 266   
+> **Pages**:: 112940  
 > **DOI**:: 10.1016/j.oceaneng.2022.112940    
 
 > [!LINK] 
->
->  [ScienceDirect Full Text PDF](file://C:\Zotero\storage\4D5GT82R\Alexandersson%20et%20al.%20-%202022%20-%20System%20identification%20of%20Vessel%20Manoeuvring%20Models.pdf).
+>.
 
 > [!Abstract]
 >
-> Identifying the ship’s maneuvering dynamics can build models for ship maneuverability predictions with a wide range of useful applications. A majority of the publications in this ﬁeld are based on simulated data. In this paper model test data is used. The identiﬁcation process can be decomposed into ﬁnding a suitable Vessel Manoeuvring Model (VMM) for the hydrodynamic forces and to correctly handle errors from the measurement noise. A Parameter Identiﬁcation Technique (PIT) is proposed to identify the hydrodynamic derivatives. The most suitable VMM is found using the PIT with cross-validation on a set of competing VMMs. The PIT uses inverse dynamics regression and Extended Kalman Filter (EKF) with a Rauch Tung Striebel (RTS) smoother. Two case study vessels, wPCC and KVLCC2, with very diﬀerent maneuverability characteristics are used to demonstrate and validate the proposed method. Turning circle predictions with the Robust VMMs, trained on zigzag model tests, show good agreement with the corresponding model test results for both ships.
+> Identifying the ship’s maneuvering dynamics can build models for ship maneuverability predictions with a wide range of useful applications. A majority of the publications in this field are based on simulated data. In this paper model test data is used. The identification process can be decomposed into finding a suitable manoeuvring model for the hydrodynamic forces and to correctly handle errors from the measurement noise. A parameter estimation is proposed to identify the hydrodynamic derivatives. The most suitable manoeuvring model is found using the parameter estimation with cross-validation on a set of competing manoeuvring models. The parameter estimation uses inverse dynamics regression and Extended Kalman filter (EKF) with a Rauch Tung Striebel (RTS) smoother. Two case study vessels, wPCC and KVLCC2, with very different maneuverability characteristics are used to demonstrate and validate the proposed method. Turning circle predictions with the robust manoeuvring models, trained on zigzag model tests, show good agreement with the corresponding model test results for both ships.
 >.
 > 
 # Notes
@@ -47,4 +46,4 @@ dateread:
 
 %% end annotations %%
 
-%% Import Date: 2024-02-27T13:06:15.797+01:00 %%
+%% Import Date: 2024-02-28T08:41:46.444+01:00 %%

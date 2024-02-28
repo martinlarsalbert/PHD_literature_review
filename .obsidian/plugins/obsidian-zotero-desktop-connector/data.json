@@ -7,8 +7,7 @@
   "citeFormats": [
     {
       "name": "Format #3",
-      "format": "formatted-citation",
-      "cslStyle": "sage-harvard"
+      "format": "formatted-citation"
     },
     {
       "name": "Format #2",
@@ -26,7 +25,7 @@
       "imageOutputPathTemplate": "80 Meta/81 Attachments/{{citekey}}/",
       "imageBaseNameTemplate": "image",
       "templatePath": "80 Meta/82 Templates/ZI_template.md",
-      "cslStyle": "sage-harvard"
+      "cslStyle": "apa"
     },
     {
       "name": "Import #1",

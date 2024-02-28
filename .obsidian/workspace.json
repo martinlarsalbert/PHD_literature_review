@@ -22,12 +22,24 @@
             }
           },
           {
-            "id": "170c929488beabce",
+            "id": "119b6fbdd3c6d7b6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "50 Literature Notes/@alexanderssonTHESISDEGREELICENTIATE2022.md",
+                "file": "50 Literature Notes/@alexanderssonAnalysisRollDamping2021.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "bc3febafee43938e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "50 Literature Notes/@alexanderssonAnalysisRollDamping2021.md",
                 "mode": "source",
                 "source": false
               }
@@ -44,9 +56,80 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "d658578db1dc8217",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "80 Meta/82 Templates/ZI_template.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c5118fd24620739e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "50 Literature Notes/@alexanderssonAnalysisRollDamping2021.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e9eb0e227fba5a1e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "50 Literature Notes/@alexanderssonTHESISDEGREELICENTIATE2022.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0a3ad406b029f73a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "50 Literature Notes/@alexanderssonSystemIdentificationVessel2022.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3f3ffa6eebfd324a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "50 Literature Notes/@alexanderssonSystemIdentificationVessel2022.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f2025f62d4e78752",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "50 Literature Notes/@alexanderssonTHESISDEGREELICENTIATE2022.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -112,7 +195,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "The red thread....md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +212,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "The red thread....md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -152,7 +235,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "The red thread....md"
               }
             }
           },
@@ -181,18 +264,18 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "fb7ee36ce7f0864e",
+  "active": "c08b2bd793e327a5",
   "lastOpenFiles": [
+    "50 Literature Notes/@alexanderssonTHESISDEGREELICENTIATE2022.md",
     "The red thread....md",
+    "50 Literature Notes/@alexanderssonSystemIdentificationVessel2022.md",
+    "50 Literature Notes/@alexanderssonAnalysisRollDamping2021.md",
+    "80 Meta/82 Templates/ZI_template.md",
     "README.md",
     "The red thread... - Copy.md",
-    "50 Literature Notes/@alexanderssonTHESISDEGREELICENTIATE2022.md",
-    "50 Literature Notes/@alexanderssonAnalysisRollDamping2021.md",
-    "50 Literature Notes/@alexanderssonSystemIdentificationVessel2022.md",
     "50 Literature Notes/@alexanderssonMartinlarsalbertRolldecayestimators2020.md",
     "flowchart.canvas",
     "50 Literature Notes/@ikedaRollDampingSharpCornered1993.md",
-    "80 Meta/82 Templates/ZI_template.md",
     "80 Meta/82 Templates",
     "50 Literature Notes",
     "New folder",

@@ -1,18 +1,6 @@
 ---
 category: literaturenote
-tags:
-  - ikeda's
-  - method
-  - Roll
-  - damping
-  - roll
-  - decay
-  - ship
-  - motions
-  - simplified
-  - ikeda's
-  - method
-  - papers
+tags: ikeda's method, lic_paper, Roll damping, roll decay, ship motions, simplified ikeda's method
 citekey: alexanderssonAnalysisRollDamping2021
 status: unread
 dateread:
@@ -60,4 +48,4 @@ dateread:
 
 %% end annotations %%
 
-%% Import Date: 2024-02-27T13:09:22.091+01:00 %%
+%% Import Date: 2024-02-28T08:39:04.201+01:00 %%
