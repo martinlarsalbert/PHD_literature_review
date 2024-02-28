@@ -24,9 +24,9 @@ dateread:
 > **Citekey**:: alexanderssonSTUDYMETHODSPREDICT2009  
 > **itemType**:: thesis    
 
-> [!LINK] 
->
->  [Full Text PDF](file://C:/Zotero/storage/ZMSE5Y9A/Alexandersson%20-%202009%20-%20A%20STUDY%20OF%20METHODS%20TO%20PREDICT%20ADDED%20RESISTANCE%20IN%20.pdf).
+> [!link]-
+> zotero_link:: [Full Text PDF](zotero://select/library/items/ZMSE5Y9A)
+
 
 > [!Abstract]
 >
@@ -53,6 +53,16 @@ waves.
 >.
 > 
 # Notes
+
+| <mark class="hltr-grey">Highlight Color</mark> | Meaning                       |     |
+| ---------------------------------------------- | ----------------------------- | --- |
+| <mark class="hltr-red">Red</mark>              | Disagree with Author          |     |
+| <mark class="hltr-orange">Orange</mark>        | Important Point By Author     |     |
+| <mark class="hltr-yellow">Yellow</mark>        | Interesting Point             |     |
+| <mark class="hltr-green">Green</mark>          | Important To Me               |     |
+| <mark class="hltr-blue">Blue</mark>            | Notes After Initial Iteration |     |
+| <mark class="hltr-purple">Purple</mark>        | Literary Note To Lookup Later |     |
+
 %% begin notes %%
 - First thing
 - Second thing
@@ -64,32 +74,15 @@ things to add each time you import:
 
 
 
-# Annotations%% begin annotations %%
+# Annotations
+- <mark class="hltr-yellow">"Gerritsma and Beukelman’s method”</mark> [Page 3](zotero://open-pdf/library/items/ZMSE5Y9A?page=3&annotation=KPDBILEA) 
+ 
+- <mark class="hltr-yellow">"Royal Institute of Technology”</mark> [Page 5](zotero://open-pdf/library/items/ZMSE5Y9A?page=5&annotation=5FBWT68U) 
+ 
+- <mark class="hltr-yellow">"Mikael Palmquis”</mark> [Page 5](zotero://open-pdf/library/items/ZMSE5Y9A?page=5&annotation=XQSKZEE3) 
+ 
+- <mark class="hltr-yellow">"SEAWAY”</mark> [Page 6](zotero://open-pdf/library/items/ZMSE5Y9A?page=6&annotation=EQ9ZCNWK) 
+ 
 
 
-
-### Imported: 2024-02-28 11:39 am
-
-
-
-<mark style="background-color: #ffd400">Quote</mark>
-> Gerritsma and Beukelman’s method
-
-<mark style="background-color: #ffd400">Quote</mark>
-> Royal Institute of Technology
-
-<mark style="background-color: #ffd400">Quote</mark>
-> Mikael Palmquis
-
-
-### Imported: 2024-02-28 11:40 am
-
-
-
-<mark style="background-color: #ffd400">Quote</mark>
-> SEAWAY
-
-
-%% end annotations %%
-
-%% Import Date: 2024-02-28T11:41:07.930+01:00 %%
+%% Import Date: 2024-02-28T16:09:22.450+01:00 %%

@@ -30,8 +30,9 @@ dateread:
 > **Pages**:: 112940  
 > **DOI**:: 10.1016/j.oceaneng.2022.112940    
 
-> [!LINK] 
->.
+> [!link]-
+> zotero_link:: 
+
 
 > [!Abstract]
 >
@@ -39,6 +40,16 @@ dateread:
 >.
 > 
 # Notes
+
+| <mark class="hltr-grey">Highlight Color</mark> | Meaning                       |     |
+| ---------------------------------------------- | ----------------------------- | --- |
+| <mark class="hltr-red">Red</mark>              | Disagree with Author          |     |
+| <mark class="hltr-orange">Orange</mark>        | Important Point By Author     |     |
+| <mark class="hltr-yellow">Yellow</mark>        | Interesting Point             |     |
+| <mark class="hltr-green">Green</mark>          | Important To Me               |     |
+| <mark class="hltr-blue">Blue</mark>            | Notes After Initial Iteration |     |
+| <mark class="hltr-purple">Purple</mark>        | Literary Note To Lookup Later |     |
+
 %% begin notes %%
 - First thing
 - Second thing
@@ -50,9 +61,7 @@ things to add each time you import:
 
 
 
-# Annotations%% begin annotations %%
+# Annotations
 
 
-%% end annotations %%
-
-%% Import Date: 2024-02-28T11:41:07.950+01:00 %%
+%% Import Date: 2024-02-28T16:09:22.470+01:00 %%

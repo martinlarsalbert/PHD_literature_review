@@ -28,9 +28,9 @@ dateread:
 > **itemType**:: journalArticle  
 > **Journal**:: **    
 
-> [!LINK] 
->
->  [Alexandersson et al. - System identification of a physics informed ship m.pdf](file://C:/Zotero/storage/PFYX5T8I/Alexandersson%20et%20al.%20-%20System%20identification%20of%20a%20physics%20informed%20ship%20m.pdf).
+> [!link]-
+> zotero_link:: [Alexandersson et al. - System identification of a physics informed ship m.pdf](zotero://select/library/items/PFYX5T8I)
+
 
 > [!Abstract]
 >
@@ -38,6 +38,16 @@ dateread:
 >.
 > 
 # Notes
+
+| <mark class="hltr-grey">Highlight Color</mark> | Meaning                       |     |
+| ---------------------------------------------- | ----------------------------- | --- |
+| <mark class="hltr-red">Red</mark>              | Disagree with Author          |     |
+| <mark class="hltr-orange">Orange</mark>        | Important Point By Author     |     |
+| <mark class="hltr-yellow">Yellow</mark>        | Interesting Point             |     |
+| <mark class="hltr-green">Green</mark>          | Important To Me               |     |
+| <mark class="hltr-blue">Blue</mark>            | Notes After Initial Iteration |     |
+| <mark class="hltr-purple">Purple</mark>        | Literary Note To Lookup Later |     |
+
 %% begin notes %%
 - First thing
 - Second thing
@@ -49,9 +59,7 @@ things to add each time you import:
 
 
 
-# Annotations%% begin annotations %%
+# Annotations
 
 
-%% end annotations %%
-
-%% Import Date: 2024-02-28T11:41:07.941+01:00 %%
+%% Import Date: 2024-02-28T16:09:22.461+01:00 %%

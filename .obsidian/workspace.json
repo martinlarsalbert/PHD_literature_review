@@ -34,7 +34,7 @@
             }
           },
           {
-            "id": "60cf7e2bf6a57ea2",
+            "id": "34e832b65c3926e1",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -46,19 +46,14 @@
             }
           },
           {
-            "id": "34e832b65c3926e1",
+            "id": "edb8a5b4740775d9",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "80 Meta/82 Templates/ZI_template.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -124,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "50 Literature Notes/@alexanderssonAnalysisRollDamping2021.md",
+                "file": "The red thread....md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -141,7 +136,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "50 Literature Notes/@alexanderssonAnalysisRollDamping2021.md",
+                "file": "The red thread....md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -164,7 +159,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "50 Literature Notes/@alexanderssonAnalysisRollDamping2021.md"
+                "file": "The red thread....md"
               }
             }
           },
@@ -181,7 +176,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 322.5
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -193,34 +188,36 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "60cf7e2bf6a57ea2",
+  "active": "c08b2bd793e327a5",
   "lastOpenFiles": [
-    "80 Meta/82 Templates/ZI_template.md",
     "50 Literature Notes/@alexanderssonAnalysisRollDamping2021.md",
-    "publish.css",
+    "80 Meta/82 Templates/ZI_template.md",
+    "80 Meta/81 Attachments/alexanderssonAnalysisRollDamping2021/image-4-x322-y65.png",
+    "80 Meta/81 Attachments/alexanderssonAnalysisRollDamping2021",
+    "50 Literature Notes/@marimongiovannettiEffectsHydrodynamicForces2020.md",
+    "50 Literature Notes/@alexanderssonWPCCManoeuvringModel2024.md",
+    "50 Literature Notes/@alexanderssonVirtualCaptiveTests2017.md",
+    "50 Literature Notes/@alexanderssonTHESISDEGREELICENTIATE2022.md",
+    "50 Literature Notes/@alexanderssonSystemIdentificationVessel2022.md",
+    "50 Literature Notes/@alexanderssonSystemIdentificationPhysics.md",
+    "50 Literature Notes/@alexanderssonSTUDYMETHODSPREDICT2009.md",
+    "50 Literature Notes/@alexanderssonRolldecayestimators2022.md",
+    "50 Literature Notes/@alexanderssonPredictionRollMotion2021.md",
+    "50 Literature Notes/@alexanderssonMartinlarsalbertRolldecayestimators2020.md",
+    "50 Literature Notes/@alexanderssonKVLCC2RollDecay2021.md",
+    "50 Literature Notes/@alexanderssonIkedaTwodimensionalCylinders2021.md",
+    "50 Literature Notes/@alexanderssonComparisonShipManoeuvrability2022.md",
+    "50 Literature Notes/@alexanderssonCodePaperSystem2022.md",
     "The red thread....md",
+    "README.md",
+    "50 Literature Notes/@bassamExperimentalTestingSimulations2019.md",
+    "publish.css",
     "marimongiovannettiEffectsHydrodynamicForces2020.md",
     "bassamExperimentalTestingSimulations2019a.md",
     "bassamExperimentalTestingSimulations2019.md",
     "alexanderssonWPCCManoeuvringModel2024.md",
     "alexanderssonVirtualCaptiveTests2017.md",
     "alexanderssonTHESISDEGREELICENTIATE2022.md",
-    "alexanderssonSystemIdentificationVessel2022.md",
-    "alexanderssonSystemIdentificationPhysics.md",
-    "alexanderssonSTUDYMETHODSPREDICT2009.md",
-    "alexanderssonRolldecayestimators2022.md",
-    "alexanderssonPredictionRollMotion2021.md",
-    "alexanderssonMartinlarsalbertRolldecayestimators2020.md",
-    "alexanderssonKVLCC2RollDecay2021.md",
-    "alexanderssonIkedaTwodimensionalCylinders2021.md",
-    "alexanderssonIkedaTwodimensionalCylinders.md",
-    "alexanderssonComparisonShipManoeuvrability2022.md",
-    "alexanderssonCodePaperSystem2022.md",
-    "alexanderssonAnalysisRollDamping2021.md",
-    "README.md",
-    "50 Literature Notes/@alexanderssonSTUDYMETHODSPREDICT2009.md",
-    "50 Literature Notes/@marimongiovannettiEffectsHydrodynamicForces2020.md",
-    "50 Literature Notes/@bassamExperimentalTestingSimulations2019a.md",
     "flowchart.canvas",
     "80 Meta/82 Templates",
     "50 Literature Notes",

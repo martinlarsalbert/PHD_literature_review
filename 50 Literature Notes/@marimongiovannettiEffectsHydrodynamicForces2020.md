@@ -28,9 +28,9 @@ dateread:
 > **Citekey**:: marimongiovannettiEffectsHydrodynamicForces2020  
 > **itemType**:: book    
 
-> [!LINK] 
->
->  [Full Text PDF](file://C:/Zotero/storage/GAS8IP77/Marimon%20Giovannetti%20et%20al.%20-%202020%20-%20The%20Effects%20of%20Hydrodynamic%20Forces%20on%20Maneuvrabili.pdf).
+> [!link]-
+> zotero_link:: [Full Text PDF](zotero://select/library/items/GAS8IP77)
+
 
 > [!Abstract]
 >
@@ -42,6 +42,16 @@ Taking into consideration both hydrodynamic characteristics and manoeuvrability 
 >.
 > 
 # Notes
+
+| <mark class="hltr-grey">Highlight Color</mark> | Meaning                       |     |
+| ---------------------------------------------- | ----------------------------- | --- |
+| <mark class="hltr-red">Red</mark>              | Disagree with Author          |     |
+| <mark class="hltr-orange">Orange</mark>        | Important Point By Author     |     |
+| <mark class="hltr-yellow">Yellow</mark>        | Interesting Point             |     |
+| <mark class="hltr-green">Green</mark>          | Important To Me               |     |
+| <mark class="hltr-blue">Blue</mark>            | Notes After Initial Iteration |     |
+| <mark class="hltr-purple">Purple</mark>        | Literary Note To Lookup Later |     |
+
 %% begin notes %%
 - First thing
 - Second thing
@@ -53,9 +63,7 @@ things to add each time you import:
 
 
 
-# Annotations%% begin annotations %%
+# Annotations
 
 
-%% end annotations %%
-
-%% Import Date: 2024-02-28T11:41:07.996+01:00 %%
+%% Import Date: 2024-02-28T16:09:22.497+01:00 %%

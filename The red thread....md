@@ -4,7 +4,8 @@ Here are the the  papers and theses with me as first author till today:
 TABLE
 title as Title,  
 itemType as Item,  
-contribution as Contribution
+contribution as Contribution,
+year as Year
 WHERE FirstAuthor = "Alexandersson, Martin" AND itemType != "dataset"  
 SORT Year ASC, Date ASC
 ```
@@ -29,4 +30,6 @@ SORT Year Asc, Date ASC
 ```
 
 # Summary
+
+In the paper "Analysis of roll damping model scale data" [[@alexanderssonAnalysisRollDamping2021]]
 

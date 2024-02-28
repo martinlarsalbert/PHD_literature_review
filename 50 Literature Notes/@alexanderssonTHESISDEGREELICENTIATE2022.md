@@ -24,9 +24,9 @@ dateread:
 > **Citekey**:: alexanderssonTHESISDEGREELICENTIATE2022  
 > **itemType**:: thesis    
 
-> [!LINK] 
->
->  [Full Text PDF](file://C:/Zotero/storage/63QB3GCR/Alexandersson%20-%202022%20-%20THESIS%20FOR%20THE%20DEGREE%20OF%20LICENTIATE%20OF%20ENGINEERING.pdf).
+> [!link]-
+> zotero_link:: [Full Text PDF](zotero://select/library/items/63QB3GCR)
+
 
 > [!Abstract]
 >
@@ -66,6 +66,16 @@ has been applied.
 >.
 > 
 # Notes
+
+| <mark class="hltr-grey">Highlight Color</mark> | Meaning                       |     |
+| ---------------------------------------------- | ----------------------------- | --- |
+| <mark class="hltr-red">Red</mark>              | Disagree with Author          |     |
+| <mark class="hltr-orange">Orange</mark>        | Important Point By Author     |     |
+| <mark class="hltr-yellow">Yellow</mark>        | Interesting Point             |     |
+| <mark class="hltr-green">Green</mark>          | Important To Me               |     |
+| <mark class="hltr-blue">Blue</mark>            | Notes After Initial Iteration |     |
+| <mark class="hltr-purple">Purple</mark>        | Literary Note To Lookup Later |     |
+
 %% begin notes %%
 - First thing
 - Second thing
@@ -77,33 +87,19 @@ things to add each time you import:
 
 
 
-# Annotations%% begin annotations %%
+# Annotations
+- <mark class="hltr-yellow">"Extended Kalman filter”</mark> [Page 4](zotero://open-pdf/library/items/63QB3GCR?page=4&annotation=7PHQHSM9) 
+ 
+- <mark class="hltr-yellow">"Inverse dynamics”</mark> [Page 4](zotero://open-pdf/library/items/63QB3GCR?page=4&annotation=4Z97XWR6) 
+ 
+- <mark class="hltr-yellow">"Multicollinearity”</mark> [Page 4](zotero://open-pdf/library/items/63QB3GCR?page=4&annotation=EC6LU9NE) 
+ 
+- <mark class="hltr-yellow">"Ship digital twin”</mark> [Page 4](zotero://open-pdf/library/items/63QB3GCR?page=4&annotation=5CGXC62C) 
+ 
+- <mark class="hltr-yellow">"Ship manoeuvring”</mark> [Page 4](zotero://open-pdf/library/items/63QB3GCR?page=4&annotation=82ZBM5H8) 
+ 
+- <mark class="hltr-yellow">"System identification”</mark> [Page 4](zotero://open-pdf/library/items/63QB3GCR?page=4&annotation=HFC4JM5B) 
+ 
 
 
-
-### Imported: 2024-02-28 11:39 am
-
-
-
-<mark style="background-color: #ffd400">Quote</mark>
-> Extended Kalman filter
-
-<mark style="background-color: #ffd400">Quote</mark>
-> Inverse dynamics
-
-<mark style="background-color: #ffd400">Quote</mark>
-> Multicollinearity
-
-<mark style="background-color: #ffd400">Quote</mark>
-> Ship digital twin
-
-<mark style="background-color: #ffd400">Quote</mark>
-> Ship manoeuvring
-
-<mark style="background-color: #ffd400">Quote</mark>
-> System identification
-
-
-%% end annotations %%
-
-%% Import Date: 2024-02-28T11:41:07.960+01:00 %%
+%% Import Date: 2024-02-28T16:09:22.476+01:00 %%

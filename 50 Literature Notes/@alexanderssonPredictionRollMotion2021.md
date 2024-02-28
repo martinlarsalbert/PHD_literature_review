@@ -30,9 +30,9 @@ dateread:
 > **Location**:: Rhodes, Greece  
 > **ISBN**:: 978-1-880653-82-1    
 
-> [!LINK] 
->
->  [Full Text PDF](file://C:/Zotero/storage/AGCLDFDE/Alexandersson%20et%20al.%20-%202021%20-%20Prediction%20of%20roll%20motion%20using%20fully%20nonlinear%20po.pdf).
+> [!link]-
+> zotero_link:: [Full Text PDF](zotero://select/library/items/AGCLDFDE)
+
 
 > [!Abstract]
 >
@@ -40,6 +40,16 @@ dateread:
 >.
 > 
 # Notes
+
+| <mark class="hltr-grey">Highlight Color</mark> | Meaning                       |     |
+| ---------------------------------------------- | ----------------------------- | --- |
+| <mark class="hltr-red">Red</mark>              | Disagree with Author          |     |
+| <mark class="hltr-orange">Orange</mark>        | Important Point By Author     |     |
+| <mark class="hltr-yellow">Yellow</mark>        | Interesting Point             |     |
+| <mark class="hltr-green">Green</mark>          | Important To Me               |     |
+| <mark class="hltr-blue">Blue</mark>            | Notes After Initial Iteration |     |
+| <mark class="hltr-purple">Purple</mark>        | Literary Note To Lookup Later |     |
+
 %% begin notes %%
 - First thing
 - Second thing
@@ -51,9 +61,7 @@ things to add each time you import:
 
 
 
-# Annotations%% begin annotations %%
+# Annotations
 
 
-%% end annotations %%
-
-%% Import Date: 2024-02-28T11:41:07.917+01:00 %%
+%% Import Date: 2024-02-28T16:09:22.430+01:00 %%

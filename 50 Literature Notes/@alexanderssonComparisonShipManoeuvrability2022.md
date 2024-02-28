@@ -32,9 +32,9 @@ dateread:
 > **Pages**:: 1-8  
 > **DOI**:: 10.1080/17445302.2022.2067409    
 
-> [!LINK] 
->
->  [Full Text](file://C:/Zotero/storage/CZ78R4X5/Alexandersson%20et%20al.%20-%202022%20-%20A%20comparison%20of%20ship%20manoeuvrability%20models%20to%20app.pdf).
+> [!link]-
+> zotero_link:: [Full Text](zotero://select/library/items/CZ78R4X5)
+
 
 > [!Abstract]
 >
@@ -42,6 +42,16 @@ dateread:
 >.
 > 
 # Notes
+
+| <mark class="hltr-grey">Highlight Color</mark> | Meaning                       |     |
+| ---------------------------------------------- | ----------------------------- | --- |
+| <mark class="hltr-red">Red</mark>              | Disagree with Author          |     |
+| <mark class="hltr-orange">Orange</mark>        | Important Point By Author     |     |
+| <mark class="hltr-yellow">Yellow</mark>        | Interesting Point             |     |
+| <mark class="hltr-green">Green</mark>          | Important To Me               |     |
+| <mark class="hltr-blue">Blue</mark>            | Notes After Initial Iteration |     |
+| <mark class="hltr-purple">Purple</mark>        | Literary Note To Lookup Later |     |
+
 %% begin notes %%
 - First thing
 - Second thing
@@ -53,9 +63,7 @@ things to add each time you import:
 
 
 
-# Annotations%% begin annotations %%
+# Annotations
 
 
-%% end annotations %%
-
-%% Import Date: 2024-02-28T11:41:07.830+01:00 %%
+%% Import Date: 2024-02-28T16:09:22.378+01:00 %%

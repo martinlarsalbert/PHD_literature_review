@@ -24,8 +24,9 @@ dateread:
 > **Citekey**:: alexanderssonCodePaperSystem2022  
 > **itemType**:: computerProgram    
 
-> [!LINK] 
->.
+> [!link]-
+> zotero_link:: 
+
 
 > [!Abstract]
 >
@@ -33,6 +34,16 @@ dateread:
 >.
 > 
 # Notes
+
+| <mark class="hltr-grey">Highlight Color</mark> | Meaning                       |     |
+| ---------------------------------------------- | ----------------------------- | --- |
+| <mark class="hltr-red">Red</mark>              | Disagree with Author          |     |
+| <mark class="hltr-orange">Orange</mark>        | Important Point By Author     |     |
+| <mark class="hltr-yellow">Yellow</mark>        | Interesting Point             |     |
+| <mark class="hltr-green">Green</mark>          | Important To Me               |     |
+| <mark class="hltr-blue">Blue</mark>            | Notes After Initial Iteration |     |
+| <mark class="hltr-purple">Purple</mark>        | Literary Note To Lookup Later |     |
+
 %% begin notes %%
 - First thing
 - Second thing
@@ -44,9 +55,7 @@ things to add each time you import:
 
 
 
-# Annotations%% begin annotations %%
+# Annotations
 
 
-%% end annotations %%
-
-%% Import Date: 2024-02-28T11:41:07.787+01:00 %%
+%% Import Date: 2024-02-28T16:09:22.354+01:00 %%
