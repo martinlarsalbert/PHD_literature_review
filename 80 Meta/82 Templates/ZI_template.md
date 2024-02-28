@@ -25,7 +25,8 @@ dateread:
 {% endfor %}~ 
 {%- endfor %}    
 > **Title**:: {{title}}  
-> **Year**:: {{date | format("YYYY")}}   
+> **Year**:: {{date | format("YYYY")}}  
+> **Date**:: {{date | format("YYYY-MM-DD")}}  
 > **Citekey**:: {{citekey}} {%- if itemType %}  
 > **itemType**:: {{itemType}}{%- endif %}{%- if itemType == "journalArticle" %}  
 > **Journal**:: *{{publicationTitle}}* {%- endif %}{%- if volume %}  
