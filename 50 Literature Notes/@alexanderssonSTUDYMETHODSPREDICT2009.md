@@ -54,14 +54,14 @@ waves.
 > 
 # Notes
 
-| <mark class="hltr-grey">Highlight Color</mark> | Meaning                       |     |
-| ---------------------------------------------- | ----------------------------- | --- |
-| <mark class="hltr-red">Red</mark>              | Disagree with Author          |     |
-| <mark class="hltr-orange">Orange</mark>        | Important Point By Author     |     |
-| <mark class="hltr-yellow">Yellow</mark>        | Interesting Point             |     |
-| <mark class="hltr-green">Green</mark>          | Important To Me               |     |
-| <mark class="hltr-blue">Blue</mark>            | Notes After Initial Iteration |     |
-| <mark class="hltr-purple">Purple</mark>        | Literary Note To Lookup Later |     |
+| <mark class="hltr-grey">Highlight Color</mark> | Meaning                       |
+| ---------------------------------------------- | ----------------------------- |
+| <mark class="hltr-red">Red</mark>              | Disagree with Author          |
+| <mark class="hltr-orange">Orange</mark>        | Important Point By Author     |
+| <mark class="hltr-yellow">Yellow</mark>        | Interesting Point             |
+| <mark class="hltr-green">Green</mark>          | Important To Me               |
+| <mark class="hltr-blue">Blue</mark>            | Notes After Initial Iteration |
+| <mark class="hltr-purple">Purple</mark>        | Literary Note To Lookup Later |
 
 %% begin notes %%
 - First thing
@@ -71,10 +71,8 @@ things to add each time you import:
 %% end notes %%
 
 >.
-
-
-
-# Annotations
+ 
+ Annotations
 - <mark class="hltr-yellow">"Gerritsma and Beukelman’s method”</mark> [Page 3](zotero://open-pdf/library/items/ZMSE5Y9A?page=3&annotation=KPDBILEA) 
  
 - <mark class="hltr-yellow">"Royal Institute of Technology”</mark> [Page 5](zotero://open-pdf/library/items/ZMSE5Y9A?page=5&annotation=5FBWT68U) 
@@ -85,4 +83,4 @@ things to add each time you import:
  
 
 
-%% Import Date: 2024-02-28T16:09:22.450+01:00 %%
+%% Import Date: 2024-02-28T18:39:24.903+01:00 %%

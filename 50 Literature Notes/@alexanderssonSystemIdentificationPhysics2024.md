@@ -1,13 +1,13 @@
 ---
 category: literaturenote
 tags: 
-citekey: alexanderssonWPCCManoeuvringModel2024
+citekey: alexanderssonSystemIdentificationPhysics2024
 status: unread
 dateread:
 ---
 
 > [!Cite]
-> Alexandersson, M. (2024). _wPCC manoeuvring model tests_ [dataset]. Mendeley Data. [https://doi.org/10.17632/j5zdrhr9bf.3](https://doi.org/10.17632/j5zdrhr9bf.3)
+> Alexandersson, M., Mao, W., Ringsberg, J. W., & Kjellberg, M. (2024). _System identification of a physics informed ship model for better predictions in wind conditions_.
 
 >[!Synth]
 >**Contribution**:: 
@@ -17,21 +17,24 @@ dateread:
 
 >[!md]
 > **FirstAuthor**:: Alexandersson, Martin  
+> **Author**:: Mao, Wengang  
+> **Author**:: Ringsberg, Jonas W  
+> **Author**:: Kjellberg, Martin  
 ~    
-> **Title**:: wPCC manoeuvring model tests  
+> **Title**:: System identification of a physics informed ship model for better predictions in wind conditions  
 > **Year**:: 2024  
-> **Date**:: 2024-02-19  
-> **Citekey**:: alexanderssonWPCCManoeuvringModel2024  
-> **itemType**:: dataset  
-> **DOI**:: 10.17632/j5zdrhr9bf.3    
+> **Date**:: 2024-04-01  
+> **Citekey**:: alexanderssonSystemIdentificationPhysics2024  
+> **itemType**:: journalArticle  
+> **Journal**:: **    
 
 > [!link]-
-> zotero_link:: 
+> zotero_link:: [Alexandersson et al. - System identification of a physics informed ship m.pdf](zotero://select/library/items/PFYX5T8I)
 
 
 > [!Abstract]
 >
-> Model test data from research project at SSPA Maritime Dynamics Laboratory. Used in paper: System identification of a physics informed ship model for better predictions in wind conditions. The major change compared to previous versions of this dataset is that the motions are now expressed in [lpp/2,0,WL], instead of CG (as before).
+> System identification offers ways to obtain proper models describing a ship’s dynamics in real operational conditions, but also poses some major challenges, such as multicollinearity and generality of the identified model.
 >.
 > 
 # Notes
@@ -57,4 +60,4 @@ things to add each time you import:
  Annotations
 
 
-%% Import Date: 2024-02-28T18:39:24.943+01:00 %%
+%% Import Date: 2024-02-28T18:40:20.684+01:00 %%

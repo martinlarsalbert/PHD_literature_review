@@ -67,14 +67,14 @@ has been applied.
 > 
 # Notes
 
-| <mark class="hltr-grey">Highlight Color</mark> | Meaning                       |     |
-| ---------------------------------------------- | ----------------------------- | --- |
-| <mark class="hltr-red">Red</mark>              | Disagree with Author          |     |
-| <mark class="hltr-orange">Orange</mark>        | Important Point By Author     |     |
-| <mark class="hltr-yellow">Yellow</mark>        | Interesting Point             |     |
-| <mark class="hltr-green">Green</mark>          | Important To Me               |     |
-| <mark class="hltr-blue">Blue</mark>            | Notes After Initial Iteration |     |
-| <mark class="hltr-purple">Purple</mark>        | Literary Note To Lookup Later |     |
+| <mark class="hltr-grey">Highlight Color</mark> | Meaning                       |
+| ---------------------------------------------- | ----------------------------- |
+| <mark class="hltr-red">Red</mark>              | Disagree with Author          |
+| <mark class="hltr-orange">Orange</mark>        | Important Point By Author     |
+| <mark class="hltr-yellow">Yellow</mark>        | Interesting Point             |
+| <mark class="hltr-green">Green</mark>          | Important To Me               |
+| <mark class="hltr-blue">Blue</mark>            | Notes After Initial Iteration |
+| <mark class="hltr-purple">Purple</mark>        | Literary Note To Lookup Later |
 
 %% begin notes %%
 - First thing
@@ -84,10 +84,8 @@ things to add each time you import:
 %% end notes %%
 
 >.
-
-
-
-# Annotations
+ 
+ Annotations
 - <mark class="hltr-yellow">"Extended Kalman filter”</mark> [Page 4](zotero://open-pdf/library/items/63QB3GCR?page=4&annotation=7PHQHSM9) 
  
 - <mark class="hltr-yellow">"Inverse dynamics”</mark> [Page 4](zotero://open-pdf/library/items/63QB3GCR?page=4&annotation=4Z97XWR6) 
@@ -102,4 +100,4 @@ things to add each time you import:
  
 
 
-%% Import Date: 2024-02-28T16:09:22.476+01:00 %%
+%% Import Date: 2024-02-28T18:39:24.927+01:00 %%

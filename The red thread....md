@@ -9,6 +9,7 @@ year as Year
 WHERE FirstAuthor = "Alexandersson, Martin" AND itemType != "dataset"  
 SORT Year ASC, Date ASC
 ```
+
 The following datasets have also been published:
 ```dataview  
 TABLE
@@ -30,7 +31,9 @@ SORT Year Asc, Date ASC
 ```
 
 # Summary
-Machine learning (ML) was a very hot topic when this PhD project started in January 2020. My initial hypothesis was that if we could just gather enough data – fantastic prediction models could be created with ML. I also realized that I was in a very good position to do it – having worked almost 10 years gathering and analysing dynamic time series data from the maritime dynamics laboratory (MDL) at the RISE SSPA Maritime Center. The objective was to build ML prediction models of the ship dynamics, addressing the whole seakeeping and manoeuvring problem. It was however decided to start with something simpler, only focusing on one degree of freedom – roll. This lead to the paper "Analysis of roll damping model scale data" [[@alexanderssonAnalysisRollDamping2021]]. A roll damping database was assembled, to train the ML model. 
+Machine learning (ML) was a very hot topic when this PhD project started in January 2020. My initial hypothesis was that if we could just gather enough data – fantastic prediction models could be created with ML. I also realized that I was in a very good position to do it – having worked almost 10 years gathering and analysing dynamic time series data from the maritime dynamics laboratory (MDL) at the RISE SSPA Maritime Center. The objective was to build ML prediction models of the ship dynamics, addressing the whole seakeeping and manoeuvring problem. It was however decided to start with something simpler, only focusing on one degree of freedom – roll. 
+## Paper 1: Analysis of roll damping model scale data
+This lead to the paper "Analysis of roll damping model scale data" [[@alexanderssonAnalysisRollDamping2021]]. A roll damping database was assembled, to train the ML model. 
 
 System identification was used to identify an appropriate model for the roll motion dynamics. A linear, quadratic, or cubic model where attempted as described in the differential equations below.
 
@@ -43,5 +46,10 @@ Different parameter identification techniques were attempted to identify the dam
 
 ![[80 Meta/81 Attachments/alexanderssonAnalysisRollDamping2021/image-4-x322-y65.png]] 
 A side result from this paper was that the simplified formula proposed by  [[@kawaharaSimplePredictionFormula2011a]] was found to not work for larger beam to draught ratios, which unfortunately included most of the ships in the gathered database.
+
+## Paper 2: System identification of Vessel Manoeuvring Models
+In the 2nd paper – System identification of Vessel Manoeuvring Models [[@alexanderssonSystemIdentificationVessel2022]] – two major problems where addressed:
+* Handling of measurement noise
+* 3 degrees of freedom in the manoeuvring problem
 
 

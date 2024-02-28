@@ -35,14 +35,14 @@ dateread:
 > 
 # Notes
 
-| <mark class="hltr-grey">Highlight Color</mark> | Meaning                       |     |
-| ---------------------------------------------- | ----------------------------- | --- |
-| <mark class="hltr-red">Red</mark>              | Disagree with Author          |     |
-| <mark class="hltr-orange">Orange</mark>        | Important Point By Author     |     |
-| <mark class="hltr-yellow">Yellow</mark>        | Interesting Point             |     |
-| <mark class="hltr-green">Green</mark>          | Important To Me               |     |
-| <mark class="hltr-blue">Blue</mark>            | Notes After Initial Iteration |     |
-| <mark class="hltr-purple">Purple</mark>        | Literary Note To Lookup Later |     |
+| <mark class="hltr-grey">Highlight Color</mark> | Meaning                       |
+| ---------------------------------------------- | ----------------------------- |
+| <mark class="hltr-red">Red</mark>              | Disagree with Author          |
+| <mark class="hltr-orange">Orange</mark>        | Important Point By Author     |
+| <mark class="hltr-yellow">Yellow</mark>        | Interesting Point             |
+| <mark class="hltr-green">Green</mark>          | Important To Me               |
+| <mark class="hltr-blue">Blue</mark>            | Notes After Initial Iteration |
+| <mark class="hltr-purple">Purple</mark>        | Literary Note To Lookup Later |
 
 %% begin notes %%
 - First thing
@@ -52,10 +52,8 @@ things to add each time you import:
 %% end notes %%
 
 >.
+ 
+ Annotations
 
 
-
-# Annotations
-
-
-%% Import Date: 2024-02-28T16:09:22.485+01:00 %%
+%% Import Date: 2024-02-28T18:39:24.936+01:00 %%
