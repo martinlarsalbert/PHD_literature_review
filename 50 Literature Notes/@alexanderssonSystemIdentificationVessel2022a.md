@@ -73,13 +73,13 @@ things to add each time you import:
  
  Annotations
 - <mark class="hltr-yellow">"system-based manoeuvring model”</mark> [Page 3](zotero://open-pdf/library/items/AHWM4AXI?page=3&annotation=AHKWLJWW) 
- 
+ ^0ff644
 - <mark class="hltr-green">"white-box”</mark> [Page 3](zotero://open-pdf/library/items/AHWM4AXI?page=3&annotation=D55J35E4) 
- 
+ ^533d5b
 - <mark class="hltr-green">"grey-box”</mark> [Page 3](zotero://open-pdf/library/items/AHWM4AXI?page=3&annotation=2LA7WA3I) 
- 
+ ^850df4  ^115561
 - <mark class="hltr-green">"black-box”</mark> [Page 3](zotero://open-pdf/library/items/AHWM4AXI?page=3&annotation=4TZ28CDZ) 
- 
+ ^73a126  ^a7e5b2
 - <mark class="hltr-green">"system identification methods must handle imperfections in the data from measurement noise and model uncertainty”</mark> [Page 4](zotero://open-pdf/library/items/AHWM4AXI?page=4&annotation=265CU5FV) 
  
 - <mark class="hltr-green">"preprocessing of data and a method to choose an appropriate manoeuvring model is needed”</mark> [Page 4](zotero://open-pdf/library/items/AHWM4AXI?page=4&annotation=UHGNRAEM) 
@@ -100,15 +100,18 @@ things to add each time you import:
  
 - <mark class="hltr-yellow">"The iterative process”</mark> [Page 6](zotero://open-pdf/library/items/AHWM4AXI?page=6&annotation=WFQY82YT) 
  
-- <mark class="hltr-yellow">"Markov property”</mark> [Page 6](zotero://open-pdf/library/items/AHWM4AXI?page=6&annotation=2YWVVB5I) 
+- <mark class="hltr-yellow">"Markov property”</mark> [Page 6](zotero://open-pdf/library/items/AHWM4AXI?page=6&annotation=2YWVVB5I)  ^01a786
  
 ![[80 Meta/81 Attachments/alexanderssonSystemIdentificationVessel2022a/image-7-x105-y599.png]] 
- 
-	- Flow chart over the proposed parameter estimation method 
- 
+	- Flow chart over the proposed parameter estimation method  ^2d4490
+
+
+
+
 - <mark class="hltr-yellow">"proposed parameter estimation method”</mark> [Page 7](zotero://open-pdf/library/items/AHWM4AXI?page=7&annotation=ILMFQ2RV) 
+^5c7835
  
-![[80 Meta/81 Attachments/alexanderssonSystemIdentificationVessel2022a/image-7-x133-y371.png]] 
+![[80 Meta/81 Attachments/alexanderssonSystemIdentificationVessel2022a/image-7-x133-y371.png]]  ^e9d974
  
 	- Simulation with: initial model, first and second iteration of the parameter estimation. 
  

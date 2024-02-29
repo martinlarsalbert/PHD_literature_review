@@ -29,4 +29,5 @@ The general aim of developing a manoeuvring model with parameter estimation is t
 
 An overfitted model may overpredict the forces during validation. The model works as long as the states are similar to the training data. However, when extrapolating, it is easy to imagine that the balance between these massive derivatives is disturbed, giving significant extrapolation errors very quickly.
 ![[80 Meta/81 Attachments/alexanderssonSystemIdentificationVessel2022a/image-13-x126-y530.png]] 
- 
+
+![[Paper 2 canvas.canvas|Paper 2 canvas]]

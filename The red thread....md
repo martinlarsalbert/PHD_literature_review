@@ -38,6 +38,7 @@ Machine learning (ML) was a very hot topic when this PhD project started in Janu
 [[Paper 1 Analysis of roll damping model scale data]]
 [[Paper 2 System identification of Vessel Manoeuvring Models]]
 
+Structure and workflow of the appended papers to achieve the thesis objectives.
 ```mermaid
 flowchart TD
 
@@ -55,3 +56,10 @@ flowchart TD
 
     Multicollinearity --> Paper3[Paper 3] --> PI(Physics informed model)
 ```
+
+
+```todoist
+name: PhD ToDo
+filter: "#PhD"
+```
+

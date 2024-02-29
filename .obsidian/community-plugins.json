@@ -3,5 +3,6 @@
   "dataview",
   "obsidian-pandoc",
   "symbols-prettifier",
-  "obsidian-pandoc-reference-list"
+  "obsidian-pandoc-reference-list",
+  "todoist-sync-plugin"
 ]
