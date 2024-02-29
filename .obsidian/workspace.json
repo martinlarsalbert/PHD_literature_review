@@ -49,8 +49,7 @@
               "pinned": true
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -117,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Paper 1 Analysis of roll damping model scale data.md",
+                "file": "The red thread....md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Paper 1 Analysis of roll damping model scale data.md",
+                "file": "The red thread....md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -157,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Paper 1 Analysis of roll damping model scale data.md"
+                "file": "The red thread....md"
               }
             }
           }
@@ -178,20 +177,21 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3cd84814f5a5b809",
+  "active": "c08b2bd793e327a5",
   "lastOpenFiles": [
     "Paper 2 System identification of Vessel Manoeuvring Models.md",
     "Paper 1 Analysis of roll damping model scale data.md",
     "The red thread....md",
+    "Untitled.canvas",
+    "50 Literature Notes/@alexanderssonAnalysisRollDamping2021.md",
+    "50 Literature Notes/@alexanderssonSystemIdentificationVessel2022a.md",
     "50 Literature Notes/@alexanderssonSTUDYMETHODSPREDICT2009.md",
     "50 Literature Notes/@alexanderssonPredictionRollMotion2021.md",
-    "50 Literature Notes/@alexanderssonSystemIdentificationVessel2022a.md",
     "50 Literature Notes/@fossenHandbookMarineCraft2011a.md",
     "50 Literature Notes/@fossenHANDBOOKMARINECRAFT.md",
     "Questions.md",
     "50 Literature Notes/@lindskogToolsSemiphysicalModelling1995.md",
     "50 Literature Notes/@leifssonGreyboxModelingOcean2008.md",
-    "50 Literature Notes/@alexanderssonAnalysisRollDamping2021.md",
     "80 Meta/81 Attachments/alexanderssonSystemIdentificationVessel2022a/image-7-x105-y599.png",
     "80 Meta/81 Attachments/alexanderssonSystemIdentificationVessel2022a/image-7-x133-y371.png",
     "80 Meta/81 Attachments/alexanderssonSystemIdentificationVessel2022a/image-13-x126-y530.png",
@@ -224,7 +224,6 @@
     "50 Literature Notes/@alexanderssonVirtualCaptiveTests2017.md",
     "50 Literature Notes/@alexanderssonTHESISDEGREELICENTIATE2022.md",
     "50 Literature Notes/@alexanderssonRolldecayestimators2022.md",
-    "50 Literature Notes/@alexanderssonMartinlarsalbertRolldecayestimators2020.md",
     "publish.css",
     "flowchart.canvas"
   ]

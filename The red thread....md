@@ -37,3 +37,21 @@ SORT Year Asc, Date ASC
 Machine learning (ML) was a very hot topic when this PhD project started in January 2020. My initial hypothesis was that if we could just gather enough data – fantastic prediction models could be created with ML. I also realized that I was in a very good position to do it – having worked almost 10 years gathering and analysing dynamic time series data from the maritime dynamics laboratory (MDL) at the RISE SSPA Maritime Center. The objective was to build ML prediction models of the ship dynamics, addressing the whole seakeeping and manoeuvring problem. It was however decided to start with something simpler, only focusing on one degree of freedom – roll. 
 [[Paper 1 Analysis of roll damping model scale data]]
 [[Paper 2 System identification of Vessel Manoeuvring Models]]
+
+```mermaid
+flowchart TD
+
+    Paper1[Paper 1 Analysis of roll damping model scale data] --> B(Handle noise)
+
+    Paper1 --> C(System identification)
+
+    Paper1 --> D(Problem with simplified Ikeda)
+
+    B --> Paper2[Paper 2 System identification of Vessel Manoeuvring Models]
+
+    C --> Paper2
+
+    Paper2 --> Generalization(Generalization) --> Multicollinearity(Multicollinearity)
+
+    Multicollinearity --> Paper3[Paper 3] --> PI(Physics informed model)
+```
