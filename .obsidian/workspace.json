@@ -126,18 +126,19 @@
             }
           },
           {
-            "id": "d2380ff2cba56e14",
+            "id": "780f3b85426c675e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "50 Literature Notes/@alexanderssonSystemIdentificationVessel2022.md",
+                "file": "The red thread....md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 11
       }
     ],
     "direction": "vertical"
@@ -272,8 +273,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c08b2bd793e327a5",
+  "active": "780f3b85426c675e",
   "lastOpenFiles": [
+    "50 Literature Notes/@alexanderssonSystemIdentificationVessel2022.md",
+    "50 Literature Notes/@alexanderssonSTUDYMETHODSPREDICT2009.md",
+    "The red thread....md",
     "The red thread....tex",
     "The red thread....html",
     "~$e red thread....docx",
@@ -281,8 +285,6 @@
     "~$The red thread....pptx",
     "The red thread....pptx",
     "The red thread....pdf",
-    "50 Literature Notes/@alexanderssonSystemIdentificationVessel2022.md",
-    "The red thread....md",
     "50 Literature Notes/@alexanderssonPredictionRollMotion2021.md",
     "50 Literature Notes/@alexanderssonSystemIdentificationPhysics.md",
     "50 Literature Notes/@alexanderssonSystemIdentificationPhysics2024.md",
@@ -300,7 +302,6 @@
     "50 Literature Notes/@alexanderssonWPCCManoeuvringModel2024.md",
     "50 Literature Notes/@alexanderssonVirtualCaptiveTests2017.md",
     "50 Literature Notes/@alexanderssonTHESISDEGREELICENTIATE2022.md",
-    "50 Literature Notes/@alexanderssonSTUDYMETHODSPREDICT2009.md",
     "50 Literature Notes/@alexanderssonRolldecayestimators2022.md",
     "50 Literature Notes/@alexanderssonMartinlarsalbertRolldecayestimators2020.md",
     "50 Literature Notes/@alexanderssonKVLCC2RollDecay2021.md",
@@ -314,7 +315,6 @@
     "bassamExperimentalTestingSimulations2019a.md",
     "flowchart.canvas",
     "80 Meta/82 Templates",
-    "50 Literature Notes",
     "Screenshot 2024-02-19 131840.png"
   ]
 }
