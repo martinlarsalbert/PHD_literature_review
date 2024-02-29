@@ -1,14 +1,17 @@
 ![](https://www.staffanstorpshk.se/images/1271/37381/1272819.JPG)
-Here are the the  papers and theses with me as first author till today:
+
+---
+Here are the the papers and theses with me as first author till today:
 ```dataview  
 TABLE
 title as Title,  
 itemType as Item,  
-contribution as Contribution,
-year as Year
+year as Year,
+contribution as Contribution
 WHERE FirstAuthor = "Alexandersson, Martin" AND itemType != "dataset"  
 SORT Year ASC, Date ASC
 ```
+---
 
 The following datasets have also been published:
 ```dataview  

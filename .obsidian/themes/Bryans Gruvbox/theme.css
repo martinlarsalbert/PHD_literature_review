@@ -100,6 +100,8 @@
   --dark4: #7c6f64;
 
   --gray: #928374;
+  --white: #ffffff;
+  --black: #000000;
 
   --light0-hard: #f9f5d7;
   --light0: #fbf1c7;
@@ -251,6 +253,7 @@ body {
   /* --custom-font: var(--font-monospace); */
   /* font-family: 'Norse';
     font-size: 20px !important; */
+    --file-line-width: 850px;
 }
 
 strong {
@@ -963,6 +966,13 @@ div:not(.CodeMirror-activeline)
 }
 .hltr-grey {
   background-color: var(--gray) !important;
+}
+.hltr-white {
+  background-color: var(--white) !important;
+}
+.hltr-black {
+  background-color: var(--black) !important;
+  color: var(--white) !important;
 }
 /** ____ 2.4 Font Formatting */
 /** ______ 2.4.1 Make Mathjax Font Larger */

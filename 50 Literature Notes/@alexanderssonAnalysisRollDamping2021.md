@@ -52,8 +52,7 @@ dateread:
 | <mark class="hltr-purple">Purple</mark>        | Literary Note To Lookup Later |
 
 %% begin notes %%
-- First thing
-- Second thing
+- See further notes in [[Paper 1 Analysis of roll damping model scale data]]
 things to add each time you import:
 
 %% end notes %%

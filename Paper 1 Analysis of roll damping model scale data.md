@@ -19,3 +19,5 @@ The quadratic model was found to describe the roll motion dynamics with sufficie
 
 ### Physics informed models
 Semi-empirical calculations with the simplified Ikeda's (SI) method proposed by  [[@kawaharaSimplePredictionFormula2011a]] was conducted with the aim to blend it with ML to form a ==physics informed model==. This did not work in this first paper, mainly because the SI method was not giving good predictions. Since most of the ships in the database had larger beam to draught ratios, outside the limits of the method. This was identified as a problem with this method, which was left for future work – which I have not addressed in this research.
+> [!note] > The physics informed model can also be referred as a ==grey box== model, but physics informed model is probably a more accurate description, since grey box model has a broader definition. [[@ljungPerspectivesSystemIdentification2010]]
+> <mark class="hltr-green">"This means that it is beneficial to shrink the model set as much as possible using physical (or other) insights into the nature of the object.”</mark> [Page 5](zotero://open-pdf/library/items/MSAWPCSS?page=5&annotation=AM2M7TBQ) 
