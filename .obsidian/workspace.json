@@ -8,49 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "c08b2bd793e327a5",
+            "id": "0ddd9ccf7426ba32",
             "type": "leaf",
-            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "The red thread....md",
+                "file": "inbox/The red thread....md",
                 "mode": "source",
                 "source": false
-              },
-              "pinned": true
-            }
-          },
-          {
-            "id": "3cd84814f5a5b809",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Paper 1 Analysis of roll damping model scale data.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true
-            }
-          },
-          {
-            "id": "520da437cb131ff3",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Paper 2 System identification of Vessel Manoeuvring Models.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true
+              }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -116,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Paper 2 System identification of Vessel Manoeuvring Models.md",
+                "file": "inbox/The red thread....md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Paper 2 System identification of Vessel Manoeuvring Models.md",
+                "file": "inbox/The red thread....md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -156,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Paper 2 System identification of Vessel Manoeuvring Models.md"
+                "file": "inbox/The red thread....md"
               }
             }
           }
@@ -177,28 +146,52 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "520da437cb131ff3",
+  "active": "0ddd9ccf7426ba32",
   "lastOpenFiles": [
+    "inbox/publish.css",
+    "inbox/link.md",
+    "inbox/flowchart.canvas",
+    "README.md",
+    "inbox/Paper 1 Analysis of roll damping model scale data.md",
+    "inbox/The red thread....md",
+    "50 Literature Notes/@alexanderssonAnalysisRollDamping2021.md",
+    "2024-03-04.md",
+    "inbox/Questions.md",
+    "inbox/Paper 3.md",
+    "inbox/Paper 2 System identification of Vessel Manoeuvring Models).md",
+    "inbox/2024-03-04.md",
+    "inbox/@Paper 2 canvas.canvas",
+    "inbox/Untitled.canvas",
+    "inbox/Screenshot 2024-02-19 131840.png",
+    "inbox/README.md",
+    "inbox/PhD Thesis.json",
+    "inbox/PhD defence questions.md",
+    "inbox/Paper 4.md",
+    "inbox/Paper 2 System identification of Vessel Manoeuvring Models.md",
+    "inbox/Paper 2 canvas.canvas",
+    "attachments/Pasted image 20240304183320.png",
+    "attachments",
+    "inbox/attachments/Pasted image 20240304183320.png",
+    "inbox/attachments",
+    "inbox/New folder",
+    "inbox",
+    "New folder",
+    "Pasted image 20240304183320.png",
     "Paper 2 canvas.canvas",
+    "Paper 1 Analysis of roll damping model scale data.md",
     "Paper 2 System identification of Vessel Manoeuvring Models.md",
+    "The red thread....md",
+    "50 Literature Notes/@alexanderssonSystemIdentificationPhysics2024.md",
+    "Paper 3.md",
+    "Paper 4.md",
     "@Paper 2 canvas.canvas",
     "50 Literature Notes/@alexanderssonSystemIdentificationVessel2022a.md",
     "Untitled.canvas",
-    "Paper 1 Analysis of roll damping model scale data.md",
-    "The red thread....md",
     "50 Literature Notes/@fossenHandbookMarineCraft2011a.md",
     "flowchart.canvas",
     "Paper 2 System identification of Vessel Manoeuvring Models).md",
     "2024-02-29.md",
-    "Paper 4.md",
     "PhD defence questions.md",
-    "50 Literature Notes/@alexanderssonAnalysisRollDamping2021.md",
-    "50 Literature Notes/@alexanderssonSTUDYMETHODSPREDICT2009.md",
-    "50 Literature Notes/@alexanderssonPredictionRollMotion2021.md",
-    "50 Literature Notes/@fossenHANDBOOKMARINECRAFT.md",
-    "Questions.md",
-    "50 Literature Notes/@lindskogToolsSemiphysicalModelling1995.md",
-    "50 Literature Notes/@leifssonGreyboxModelingOcean2008.md",
     "80 Meta/81 Attachments/alexanderssonSystemIdentificationVessel2022a/image-7-x105-y599.png",
     "80 Meta/81 Attachments/alexanderssonSystemIdentificationVessel2022a/image-7-x133-y371.png",
     "80 Meta/81 Attachments/alexanderssonSystemIdentificationVessel2022a/image-13-x126-y530.png",
@@ -206,27 +199,7 @@
     "80 Meta/81 Attachments/alexanderssonSystemIdentificationVessel2022a/image-11-x130-y475.png",
     "80 Meta/81 Attachments/alexanderssonSystemIdentificationVessel2022a/image-10-x128-y539.png",
     "80 Meta/81 Attachments/alexanderssonSystemIdentificationVessel2022a",
-    "50 Literature Notes/@ljungPerspectivesSystemIdentification2010.md",
-    "50 Literature Notes/@alexanderssonSystemIdentificationVessel2022.md",
     "The red thread....tex",
-    "The red thread....html",
-    "~$e red thread....docx",
-    "The red thread....docx",
-    "~$The red thread....pptx",
-    "The red thread....pptx",
-    "The red thread....pdf",
-    "50 Literature Notes/@alexanderssonSystemIdentificationPhysics.md",
-    "50 Literature Notes/@alexanderssonSystemIdentificationPhysics2024.md",
-    "@imoFinalizationSecondGeneration2016.md",
-    "50 Literature Notes/@kawaharaSimplePredictionFormula2011a.md",
-    "80.md",
-    "80 Meta/81 Attachments/alexanderssonAnalysisRollDamping2021/image-3-x369-y409.png",
-    "80 Meta/81 Attachments/alexanderssonAnalysisRollDamping2021/image-3-x359-y467.png",
-    "80 Meta/81 Attachments/alexanderssonAnalysisRollDamping2021/image-3-x383-y488.png",
-    "80 Meta/82 Templates/ZI_template.md",
-    "80 Meta/81 Attachments/alexanderssonAnalysisRollDamping2021/image-4-x322-y65.png",
-    "80 Meta/81 Attachments/alexanderssonAnalysisRollDamping2021",
-    "50 Literature Notes/@marimongiovannettiEffectsHydrodynamicForces2020.md",
-    "publish.css"
+    "The red thread....html"
   ]
 }

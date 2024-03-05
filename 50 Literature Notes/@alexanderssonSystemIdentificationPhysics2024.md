@@ -1,6 +1,6 @@
 ---
 category: literaturenote
-tags: 
+tags: lic_paper
 citekey: alexanderssonSystemIdentificationPhysics2024
 status: unread
 dateread:
@@ -12,7 +12,7 @@ dateread:
 >[!Synth]
 >**Contribution**:: 
 >
->**Related**:: 
+>**Related**::  [[@luoParameterIdentifiabilityShip2016]],   [[@kjellbergSailingPerformanceWindPowered2023]],   [[@villaNumericalAnalysisRudder2020]],   [[@millerShipModelIdentification2021]],   [[@yasukawaIntroductionMMGStandard2015]],   [[@marimongiovannettiEffectsHydrodynamicForces2020]],   [[@sternExperienceSIMMAN20082011]],   [[@hughesTEMPESTLevel0Theory2011]],   [[@alexanderssonSystemIdentificationVessel2022]],   [[@matusiakDynamicsRigidShip2021]],   [[@ahmedSurveyTraditionalAI2023]],   [[@whickerFreeStreamCharacteristicsFamily1958]],   [[@fossenHandbookMarineCraft2011a]],   [[@brixManoeuvringTechnicalManual1993]],   [[@faberInverseDynamicsMechanical2018]] 
 >
 
 >[!md]
@@ -58,6 +58,26 @@ things to add each time you import:
 >.
  
  Annotations
+- <mark class="hltr-green">"multicollinearity”</mark> [Page 1](zotero://open-pdf/library/items/PFYX5T8I?page=1&annotation=P9DLK2JP) 
+ 
+- <mark class="hltr-green">"generality”</mark> [Page 1](zotero://open-pdf/library/items/PFYX5T8I?page=1&annotation=94N8DY8Q) 
+ 
+- <mark class="hltr-green">"physics informed ship manoeuvring model”</mark> [Page 1](zotero://open-pdf/library/items/PFYX5T8I?page=1&annotation=5VLDW8JI) 
+ 
+- <mark class="hltr-green">"deterministic semi-empirical rudder model”</mark> [Page 1](zotero://open-pdf/library/items/PFYX5T8I?page=1&annotation=48URPS6U) 
+ 
+- <mark class="hltr-green">"inverse dynamics regression”</mark> [Page 1](zotero://open-pdf/library/items/PFYX5T8I?page=1&annotation=EPQ2WSMP) 
+ 
+- <mark class="hltr-yellow">"wPCC”</mark> [Page 1](zotero://open-pdf/library/items/PFYX5T8I?page=1&annotation=DI2Y4CYJ) 
+ 
+- <mark class="hltr-yellow">"reference model”</mark> [Page 1](zotero://open-pdf/library/items/PFYX5T8I?page=1&annotation=9H2F867V) 
+ 
+- <mark class="hltr-green">"virtual captive tests”</mark> [Page 1](zotero://open-pdf/library/items/PFYX5T8I?page=1&annotation=DYZ37YWH) 
+ 
+- <mark class="hltr-green">"physics uninformed mathematical model”</mark> [Page 1](zotero://open-pdf/library/items/PFYX5T8I?page=1&annotation=G9UXRKC7) 
+ 
+- <mark class="hltr-green">"All of the models predicted the zigzag tests with satisfactory agreement and can thus indeed be considered as being mathematically correct”</mark> [Page 1](zotero://open-pdf/library/items/PFYX5T8I?page=1&annotation=GRR2NIA9) 
+ 
 
 
-%% Import Date: 2024-02-28T18:40:20.684+01:00 %%
+%% Import Date: 2024-02-29T18:44:13.531+01:00 %%
