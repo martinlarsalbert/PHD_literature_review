@@ -4,22 +4,37 @@
     "type": "split",
     "children": [
       {
-        "id": "1858941f5095acea",
+        "id": "cb81f68756012e58",
         "type": "tabs",
         "children": [
           {
-            "id": "0ddd9ccf7426ba32",
+            "id": "e54222ca346aaba9",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
                 "file": "inbox/The red thread....md",
                 "mode": "source",
                 "source": false
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "c45e24fa916e1735",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "inbox/zettelkasten.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -48,7 +63,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "@vct",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -69,7 +84,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 478.5
+    "width": 277.5
   },
   "right": {
     "id": "a4f61f8340aaea35",
@@ -85,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "inbox/The red thread....md",
+                "file": "inbox/zettelkasten.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "inbox/The red thread....md",
+                "file": "inbox/zettelkasten.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "inbox/The red thread....md"
+                "file": "inbox/zettelkasten.md"
               }
             }
           }
@@ -146,20 +161,25 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0ddd9ccf7426ba32",
+  "active": "c45e24fa916e1735",
   "lastOpenFiles": [
+    "inbox/The red thread....md",
+    "inbox/zettelkasten.md",
+    "inbox/2024-03-04.md",
+    "inbox/proof reading.md",
+    "attachments/Pasted image 20240305081209.png",
+    "inbox/attachments/Pasted image 20240305080854.png",
+    "inbox/attachments",
     "inbox/publish.css",
     "inbox/link.md",
     "inbox/flowchart.canvas",
     "README.md",
     "inbox/Paper 1 Analysis of roll damping model scale data.md",
-    "inbox/The red thread....md",
     "50 Literature Notes/@alexanderssonAnalysisRollDamping2021.md",
     "2024-03-04.md",
     "inbox/Questions.md",
     "inbox/Paper 3.md",
     "inbox/Paper 2 System identification of Vessel Manoeuvring Models).md",
-    "inbox/2024-03-04.md",
     "inbox/@Paper 2 canvas.canvas",
     "inbox/Untitled.canvas",
     "inbox/Screenshot 2024-02-19 131840.png",
@@ -172,7 +192,6 @@
     "attachments/Pasted image 20240304183320.png",
     "attachments",
     "inbox/attachments/Pasted image 20240304183320.png",
-    "inbox/attachments",
     "inbox/New folder",
     "inbox",
     "New folder",
@@ -191,13 +210,10 @@
     "flowchart.canvas",
     "Paper 2 System identification of Vessel Manoeuvring Models).md",
     "2024-02-29.md",
-    "PhD defence questions.md",
     "80 Meta/81 Attachments/alexanderssonSystemIdentificationVessel2022a/image-7-x105-y599.png",
     "80 Meta/81 Attachments/alexanderssonSystemIdentificationVessel2022a/image-7-x133-y371.png",
     "80 Meta/81 Attachments/alexanderssonSystemIdentificationVessel2022a/image-13-x126-y530.png",
     "80 Meta/81 Attachments/alexanderssonSystemIdentificationVessel2022a/image-12-x125-y413.png",
-    "80 Meta/81 Attachments/alexanderssonSystemIdentificationVessel2022a/image-11-x130-y475.png",
-    "80 Meta/81 Attachments/alexanderssonSystemIdentificationVessel2022a/image-10-x128-y539.png",
     "80 Meta/81 Attachments/alexanderssonSystemIdentificationVessel2022a",
     "The red thread....tex",
     "The red thread....html"
