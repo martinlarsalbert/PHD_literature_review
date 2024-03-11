@@ -1,3 +1,4 @@
+#academic-writing
 Here are my notes from the [Cambridge proofreading](https://proofreading.org/).
 * "1 to 2" to "1--2" 
 * "as shown in" instead of "as seen in"
@@ -24,3 +25,4 @@ Here are my notes from the [Cambridge proofreading](https://proofreading.org/).
 * "~~where~~" to "in which"
 * variables are italic: $B$
 * units don't: \[deg\] instead of *\[deg\]*
+* 

@@ -22,19 +22,195 @@
             }
           },
           {
-            "id": "c45e24fa916e1735",
+            "id": "2e07633fc94f79d9",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "inbox/Paper 1 Analysis of roll damping model scale data.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "3311fe93218e2440",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "inbox/Paper 2 System identification of Vessel Manoeuvring Models.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "90fdd72fb9ab1f5c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "inbox/zettelkasten.md",
+                "file": "inbox/extended Kalman filter.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "17507711bc731458",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "inbox/Paper 3 System identification of a physics informed ship model for better predictions in wind conditions.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "46ebbaced1b2abf3",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "inbox/Paper 4.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "9a279fab140c3721",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "inbox/Paper 3 Semi-empirical rudder.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b19bf8ca6aa0d585",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "inbox/rudder gap effect.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "16dc0894bf756100",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "inbox/semi-empirical rudder.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4426a022b4bec553",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "inbox/extended Kalman filter.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "68e3701c48879a17",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "inbox/rudder hull interaction.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "957bde8ad94c1997",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "inbox/generalization.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "88095932fd32870a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "inbox/inverse dynamics.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2024084d2bd65b6a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "50 Literature Notes/@alexanderssonSystemIdentificationVessel2022a.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "26941fe22cb4a2c6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "inbox/multicollinearity.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5a8f47751097e2c4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "inbox/semi-empirical rudder.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -63,7 +239,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "@vct",
+                "query": "paper 4",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -80,7 +256,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -100,7 +277,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "inbox/zettelkasten.md",
+                "file": "inbox/Paper 4.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +294,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "inbox/zettelkasten.md",
+                "file": "inbox/Paper 4.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +317,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "inbox/zettelkasten.md"
+                "file": "inbox/Paper 4.md"
               }
             }
           }
@@ -161,61 +338,61 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c45e24fa916e1735",
+  "active": "46ebbaced1b2abf3",
   "lastOpenFiles": [
     "inbox/The red thread....md",
-    "inbox/zettelkasten.md",
-    "inbox/2024-03-04.md",
+    "inbox/Paper 4.md",
+    "50 Literature Notes/@alexanderssonIkedaTwodimensionalCylinders2021.md",
+    "inbox/Untitled.md",
+    "inbox/Paper 3 System identification of a physics informed ship model for better predictions in wind conditions.md",
+    "inbox/Paper 3 Semi-empirical rudder.md",
+    "50 Literature Notes/@alexanderssonSystemIdentificationPhysicsinformed.md",
+    "inbox/rudder gap effect.md",
+    "inbox/semi-empirical rudder.md",
+    "50 Literature Notes/@whickerFreeStreamCharacteristicsFamily1958.md",
+    "50 Literature Notes/@alexanderssonSystemIdentificationVessel2022a.md",
     "inbox/proof reading.md",
+    "inbox/Paper 2 System identification of Vessel Manoeuvring Models.md",
+    "inbox/Paper 1 Analysis of roll damping model scale data.md",
+    "80 Meta/81 Attachments/alexanderssonSystemIdentificationPhysicsinformed/image-9-x196-y488.png",
+    "80 Meta/81 Attachments/alexanderssonSystemIdentificationPhysicsinformed/image-5-x158-y236.png",
+    "80 Meta/81 Attachments/alexanderssonSystemIdentificationPhysicsinformed/image-24-x116-y314.png",
+    "80 Meta/81 Attachments/alexanderssonSystemIdentificationPhysicsinformed/image-23-x106-y317.png",
+    "80 Meta/81 Attachments/alexanderssonSystemIdentificationPhysicsinformed/image-10-x217-y416.png",
+    "80 Meta/81 Attachments/alexanderssonSystemIdentificationPhysicsinformed/image-21-x113-y163.png",
+    "80 Meta/81 Attachments/alexanderssonSystemIdentificationPhysicsinformed/image-11-x201-y284.png",
+    "80 Meta/81 Attachments/alexanderssonSystemIdentificationPhysicsinformed",
+    "inbox/generalization.md",
+    "inbox/extended Kalman filter.md",
+    "inbox/unscented Kalman filter.md",
+    "inbox/inverse dynamics.md",
+    "50 Literature Notes/@brownIntroductionRandomSignals1997.md",
+    "inbox/rudder hull interaction.md",
+    "inbox/difference method.md",
+    "50 Literature Notes/@faberInverseDynamicsMechanical2018.md",
+    "50 Literature Notes/@brixManoeuvringTechnicalManual1993.md",
+    "50 Literature Notes/@villaNumericalAnalysisRudder2020.md",
+    "50 Literature Notes/@matusiakDynamicsRigidShip2021.md",
+    "50 Literature Notes/@kjellbergSailingPerformanceWindPowered2023.md",
+    "PhD Thesis.json",
+    "inbox/Paper 2 canvas.canvas",
     "attachments/Pasted image 20240305081209.png",
     "inbox/attachments/Pasted image 20240305080854.png",
     "inbox/attachments",
     "inbox/publish.css",
-    "inbox/link.md",
     "inbox/flowchart.canvas",
-    "README.md",
-    "inbox/Paper 1 Analysis of roll damping model scale data.md",
-    "50 Literature Notes/@alexanderssonAnalysisRollDamping2021.md",
-    "2024-03-04.md",
-    "inbox/Questions.md",
-    "inbox/Paper 3.md",
-    "inbox/Paper 2 System identification of Vessel Manoeuvring Models).md",
     "inbox/@Paper 2 canvas.canvas",
     "inbox/Untitled.canvas",
     "inbox/Screenshot 2024-02-19 131840.png",
-    "inbox/README.md",
     "inbox/PhD Thesis.json",
-    "inbox/PhD defence questions.md",
-    "inbox/Paper 4.md",
-    "inbox/Paper 2 System identification of Vessel Manoeuvring Models.md",
-    "inbox/Paper 2 canvas.canvas",
-    "attachments/Pasted image 20240304183320.png",
     "attachments",
-    "inbox/attachments/Pasted image 20240304183320.png",
     "inbox/New folder",
     "inbox",
     "New folder",
-    "Pasted image 20240304183320.png",
     "Paper 2 canvas.canvas",
-    "Paper 1 Analysis of roll damping model scale data.md",
-    "Paper 2 System identification of Vessel Manoeuvring Models.md",
-    "The red thread....md",
-    "50 Literature Notes/@alexanderssonSystemIdentificationPhysics2024.md",
-    "Paper 3.md",
-    "Paper 4.md",
     "@Paper 2 canvas.canvas",
-    "50 Literature Notes/@alexanderssonSystemIdentificationVessel2022a.md",
     "Untitled.canvas",
-    "50 Literature Notes/@fossenHandbookMarineCraft2011a.md",
     "flowchart.canvas",
-    "Paper 2 System identification of Vessel Manoeuvring Models).md",
-    "2024-02-29.md",
-    "80 Meta/81 Attachments/alexanderssonSystemIdentificationVessel2022a/image-7-x105-y599.png",
-    "80 Meta/81 Attachments/alexanderssonSystemIdentificationVessel2022a/image-7-x133-y371.png",
-    "80 Meta/81 Attachments/alexanderssonSystemIdentificationVessel2022a/image-13-x126-y530.png",
-    "80 Meta/81 Attachments/alexanderssonSystemIdentificationVessel2022a/image-12-x125-y413.png",
-    "80 Meta/81 Attachments/alexanderssonSystemIdentificationVessel2022a",
-    "The red thread....tex",
-    "The red thread....html"
+    "80 Meta/81 Attachments/alexanderssonSystemIdentificationVessel2022a"
   ]
 }

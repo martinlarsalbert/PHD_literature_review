@@ -7,5 +7,21 @@
       "key": "I"
     }
   ],
-  "editor:toggle-italics": []
+  "editor:toggle-italics": [],
+  "app:go-back": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "ArrowLeft"
+    }
+  ],
+  "app:go-forward": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "ArrowRight"
+    }
+  ]
 }

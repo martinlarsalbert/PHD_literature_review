@@ -8,5 +8,6 @@
   "readableLineLength": true,
   "attachmentFolderPath": "attachments",
   "newFileLocation": "folder",
-  "newFileFolderPath": "inbox"
+  "newFileFolderPath": "inbox",
+  "alwaysUpdateLinks": true
 }

@@ -1,4 +1,5 @@
-This lead to the paper "Analysis of roll damping model scale data" [[@alexanderssonAnalysisRollDamping2021]]. A roll damping database was assembled, to train the ML model. 
+Part of the [[Licentiate thesis]].
+This lead to the paper "Analysis of roll damping model scale data" [[@alexanderssonAnalysisRollDamping2021]] A roll damping database was assembled, to train the ML model. 
 
 System identification was used to identify an appropriate ==mathematical model== for the roll motion dynamics. A linear, quadratic, or cubic model where attempted as described in the differential equations below.
 
