@@ -6,6 +6,7 @@
       {
         "id": "cb81f68756012e58",
         "type": "tabs",
+        "dimension": 63.147508633448446,
         "children": [
           {
             "id": "e54222ca346aaba9",
@@ -50,18 +51,6 @@
             }
           },
           {
-            "id": "90fdd72fb9ab1f5c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "inbox/extended Kalman filter.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "17507711bc731458",
             "type": "leaf",
             "pinned": true,
@@ -90,43 +79,111 @@
             }
           },
           {
-            "id": "9a279fab140c3721",
+            "id": "40509460ead14b55",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "inbox/Paper 3 Semi-empirical rudder.md",
+                "file": "inbox/heel.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "b19bf8ca6aa0d585",
+            "id": "b157a05294778a79",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "inbox/rudder gap effect.md",
+                "file": "inbox/persistence of excitation.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 5
+      },
+      {
+        "id": "a7bcb03a4d7c4556",
+        "type": "tabs",
+        "dimension": 36.852491366551554,
+        "children": [
+          {
+            "id": "7a823c1052de851b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "inbox/system identification.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "16dc0894bf756100",
+            "id": "673a65d542f0966c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "inbox/semi-empirical rudder.md",
+                "file": "50 Literature Notes/@revestidoherreroTwostepIdentificationNonlinear2012.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "4426a022b4bec553",
+            "id": "73942d5dd4a7736c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "inbox/system identification.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "73038a2cda2e869b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "50 Literature Notes/@takashinaCalculationofShipTurning.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7a76da648dc9e021",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "inbox/unscented Kalman filter.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3fc72d705b2fcb77",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "inbox/what is a model.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2b4c6f8f92abb059",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -138,79 +195,31 @@
             }
           },
           {
-            "id": "68e3701c48879a17",
+            "id": "a22ea9a301f9c868",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "inbox/rudder hull interaction.md",
+                "file": "inbox/persistence of excitation.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "957bde8ad94c1997",
+            "id": "f3a2d1fe46ba4109",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "inbox/generalization.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "88095932fd32870a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "inbox/inverse dynamics.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2024084d2bd65b6a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "50 Literature Notes/@alexanderssonSystemIdentificationVessel2022a.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "26941fe22cb4a2c6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "inbox/multicollinearity.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5a8f47751097e2c4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "inbox/semi-empirical rudder.md",
+                "file": "inbox/difference method.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -239,7 +248,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "paper 4",
+                "query": "file: system",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -256,12 +265,11 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 277.5
+    "width": 288.5
   },
   "right": {
     "id": "a4f61f8340aaea35",
@@ -277,7 +285,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "inbox/Paper 4.md",
+                "file": "inbox/heel.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -294,7 +302,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "inbox/Paper 4.md",
+                "file": "inbox/heel.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -317,7 +325,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "inbox/Paper 4.md"
+                "file": "inbox/heel.md"
               }
             }
           }
@@ -338,61 +346,61 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "46ebbaced1b2abf3",
+  "active": "40509460ead14b55",
   "lastOpenFiles": [
-    "inbox/The red thread....md",
+    "50 Literature Notes/@takashinaCalculationofShipTurning.md",
+    "inbox/heel.md",
     "inbox/Paper 4.md",
-    "50 Literature Notes/@alexanderssonIkedaTwodimensionalCylinders2021.md",
-    "inbox/Untitled.md",
+    "80 Meta/81 Attachments/takashinaCalculationofShipTurning/image-7-x25-y389.png",
+    "80 Meta/81 Attachments/takashinaCalculationofShipTurning",
+    "inbox/system identification.md",
+    "inbox/The red thread....md",
+    "inbox/persistence of excitation.md",
+    "inbox/difference method.md",
     "inbox/Paper 3 System identification of a physics informed ship model for better predictions in wind conditions.md",
-    "inbox/Paper 3 Semi-empirical rudder.md",
-    "50 Literature Notes/@alexanderssonSystemIdentificationPhysicsinformed.md",
-    "inbox/rudder gap effect.md",
+    "inbox/perturbed velocity.md",
     "inbox/semi-empirical rudder.md",
-    "50 Literature Notes/@whickerFreeStreamCharacteristicsFamily1958.md",
-    "50 Literature Notes/@alexanderssonSystemIdentificationVessel2022a.md",
-    "inbox/proof reading.md",
-    "inbox/Paper 2 System identification of Vessel Manoeuvring Models.md",
-    "inbox/Paper 1 Analysis of roll damping model scale data.md",
-    "80 Meta/81 Attachments/alexanderssonSystemIdentificationPhysicsinformed/image-9-x196-y488.png",
-    "80 Meta/81 Attachments/alexanderssonSystemIdentificationPhysicsinformed/image-5-x158-y236.png",
-    "80 Meta/81 Attachments/alexanderssonSystemIdentificationPhysicsinformed/image-24-x116-y314.png",
-    "80 Meta/81 Attachments/alexanderssonSystemIdentificationPhysicsinformed/image-23-x106-y317.png",
-    "80 Meta/81 Attachments/alexanderssonSystemIdentificationPhysicsinformed/image-10-x217-y416.png",
-    "80 Meta/81 Attachments/alexanderssonSystemIdentificationPhysicsinformed/image-21-x113-y163.png",
-    "80 Meta/81 Attachments/alexanderssonSystemIdentificationPhysicsinformed/image-11-x201-y284.png",
-    "80 Meta/81 Attachments/alexanderssonSystemIdentificationPhysicsinformed",
+    "inbox/virtual captive tests.md",
+    "inbox/inverse dynamics.md",
     "inbox/generalization.md",
+    "inbox/multicollinearity.md",
+    "50 Literature Notes/@luoParameterIdentificationShip2016.md",
+    "inbox/fossen.md",
+    "50 Literature Notes/@revestidoherreroTwostepIdentificationNonlinear2012.md",
     "inbox/extended Kalman filter.md",
     "inbox/unscented Kalman filter.md",
-    "inbox/inverse dynamics.md",
-    "50 Literature Notes/@brownIntroductionRandomSignals1997.md",
-    "inbox/rudder hull interaction.md",
-    "inbox/difference method.md",
-    "50 Literature Notes/@faberInverseDynamicsMechanical2018.md",
-    "50 Literature Notes/@brixManoeuvringTechnicalManual1993.md",
-    "50 Literature Notes/@villaNumericalAnalysisRudder2020.md",
-    "50 Literature Notes/@matusiakDynamicsRigidShip2021.md",
-    "50 Literature Notes/@kjellbergSailingPerformanceWindPowered2023.md",
+    "inbox/what is a model.md",
+    "80 Meta/81 Attachments/revestidoherreroTwostepIdentificationNonlinear2012/image-8-x42-y453.png",
+    "80 Meta/81 Attachments/revestidoherreroTwostepIdentificationNonlinear2012",
+    "50 Literature Notes/@sutuloAlgorithmOfflineIdentification2014.md",
+    "inbox/2024-03-12.md",
+    "attachments/Pasted image 20240312131253.png",
+    "inbox/Untitled 1Untitled 1.md",
+    "80 Meta/81 Attachments/luoParameterIdentificationShip2016/image-5-x308-y736.png",
+    "80 Meta/81 Attachments/luoParameterIdentificationShip2016/image-6-x56-y562.png",
+    "80 Meta/81 Attachments/luoParameterIdentificationShip2016",
+    "inbox/optimized pseudo-random binary sequences.md",
+    "50 Literature Notes/@landauDigitalControlSystems2006.md",
+    "50 Literature Notes/@abkowitzMEASUREMENTHYDRODYNAMICCHARACTERISTICS1980.md",
+    "80 Meta/81 Attachments/sutuloAlgorithmOfflineIdentification2014/image-6-x46-y276.png",
+    "80 Meta/81 Attachments/sutuloAlgorithmOfflineIdentification2014/image-5-x301-y351.png",
+    "80 Meta/81 Attachments/sutuloAlgorithmOfflineIdentification2014",
+    "80 Meta/81 Attachments/skjetneNonlinearShipManoeuvering2004/image-5-x218-y253.png",
+    "80 Meta/81 Attachments/skjetneNonlinearShipManoeuvering2004/image-10-x207-y491.png",
+    "80 Meta/81 Attachments/skjetneNonlinearShipManoeuvering2004",
+    "80 Meta/81 Attachments/alexanderssonSystemIdentificationPhysicsinformed/image-9-x196-y488.png",
+    "80 Meta/81 Attachments/alexanderssonSystemIdentificationPhysicsinformed",
     "PhD Thesis.json",
     "inbox/Paper 2 canvas.canvas",
-    "attachments/Pasted image 20240305081209.png",
-    "inbox/attachments/Pasted image 20240305080854.png",
     "inbox/attachments",
     "inbox/publish.css",
     "inbox/flowchart.canvas",
     "inbox/@Paper 2 canvas.canvas",
     "inbox/Untitled.canvas",
-    "inbox/Screenshot 2024-02-19 131840.png",
     "inbox/PhD Thesis.json",
-    "attachments",
-    "inbox/New folder",
-    "inbox",
-    "New folder",
     "Paper 2 canvas.canvas",
     "@Paper 2 canvas.canvas",
     "Untitled.canvas",
-    "flowchart.canvas",
-    "80 Meta/81 Attachments/alexanderssonSystemIdentificationVessel2022a"
+    "flowchart.canvas"
   ]
 }

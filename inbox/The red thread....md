@@ -57,6 +57,7 @@ flowchart TD
 	experiments(New tests?) --> 7mdata(Field study tests)
 	7mdata(Field study tests) --> Paper4[Paper 4 System identification of ship manoeuvring in real conditions]
 	PI --> Paper4
+	differenceMethod(Difference method?) --> Paper4
 ```
 
 [[Paper 1 Analysis of roll damping model scale data]]

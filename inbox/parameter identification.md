@@ -1,0 +1,2 @@
+
+<mark class="hltr-yellow">"If the structure of the mathematical model is established a priori, just the values of the parameters of the model are to be estimated and it goes then about the parametric identification”</mark> [Page 2](zotero://open-pdf/library/items/WD85S9FS?page=2&annotation=3PWIHKS6) 

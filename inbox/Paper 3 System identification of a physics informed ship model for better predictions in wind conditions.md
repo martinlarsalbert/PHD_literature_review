@@ -9,8 +9,7 @@ The physical correctness of the force prediction models is assessed with a "phys
 It was investigated if the introduction of a deterministic [[semi-empirical rudder]] (see [[Paper 3 Semi-empirical rudder]]) model in the PI model would reduce the [[multicollinearity]] and enhance the [[generalization]].
 The [[difference method]] and [[PCA]] are other ways to do this.
 
-The use of perturbed velocity enables the possibility to have nonlinear resistance
- <mark class="hltr-green">"perturbed velocity”</mark> [Page 12](zotero://open-pdf/library/items/GHSB3SIB?page=12&annotation=PCAENX5H) 
+The use of [[perturbed velocity]] enables the possibility to have nonlinear resistance.
 ## Conclusions
 <mark class="hltr-green">"All identified models are mathematically correct since they predicted the model tests with satisfactory agreement.”</mark> [Page 25](zotero://open-pdf/library/items/GHSB3SIB?page=25&annotation=FUAEYJCH) 
 

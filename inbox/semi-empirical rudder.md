@@ -3,6 +3,10 @@ Well established semi-empirical formulas for the rudder lift $L_R$ and drag $D_R
 
 The problem is how to model the inflow velocity $V_R$ and angle $\alpha_f$ in the wake of the ship hull. This is hard for straight ahead condition, but even harder when the ship also has a drift angle and yaw rate.
 
+ [Page 10](zotero://open-pdf/library/items/T6ZTCVHD?page=10&annotation=V7P8HVHS) 
+![[80 Meta/81 Attachments/skjetneNonlinearShipManoeuvering2004/image-10-x207-y491.png]] 
+[[@lewisPrinciplesNavalArchitecture]]
+
 Annotations:
 - <mark class="hltr-yellow">"semi-empirical rudder model”</mark> [Page 8](zotero://open-pdf/library/items/GHSB3SIB?page=8&annotation=ITRJED2H) 
 

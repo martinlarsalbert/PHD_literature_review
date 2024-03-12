@@ -1,0 +1,1 @@
+<mark class="hltr-yellow">"unscented Kalman filter was presented for the identification of nonlinear maneuvering models of a modern high-speed trimaran ferry [16]”</mark> [Page 1](zotero://open-pdf/library/items/FVV4DHGM?page=1&annotation=C95NP244) 
