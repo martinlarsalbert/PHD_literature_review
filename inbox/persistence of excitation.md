@@ -5,6 +5,8 @@ This is only obtained if the inputs to the closed-loop system (references and di
 Some impression about informative power of these manoeuvres can be obtained from the projections of the phase trajectories on the plane β  r0 [Page 5](zotero://open-pdf/library/items/WD85S9FS?page=5&annotation=JXGQ44I7) 
 ![[80 Meta/81 Attachments/sutuloAlgorithmOfflineIdentification2014/image-6-x46-y276.png|300]] 
 
+[[optimized pseudo-random binary sequences]] (PRBS) is a way to get more informative data.
+
 The zig-zag test is not designed for system identification, so it may not have enough persistence of excitation for the number of parameters in the model.  [Page 1](zotero://open-pdf/library/items/HJ4PM4A5?page=1&annotation=6NI9ZT39) 
 
 Spectral characteristics of excitation signals do not reach far enough to excite the system dynamics [Page 2](zotero://open-pdf/library/items/HJ4PM4A5?page=2&annotation=4ILMRBYD) 

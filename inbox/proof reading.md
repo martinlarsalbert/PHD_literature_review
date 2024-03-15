@@ -19,7 +19,7 @@ Here are my notes from the [Cambridge proofreading](https://proofreading.org/).
 *  ~~if~~ to whether
 * ~~compared to~~ to than
 * ~~due to~~ to because of
-*  rather active than passive voice Ex.: trahter "this Table presents" instead of "are presented in Table"
+*  rather active than passive voice Ex.: rather "this Table presents" instead of "are presented in Table"
 * "~~big~~" to "major"
 * ~~will~~ --- avoid future tense
 * "~~where~~" to "in which"

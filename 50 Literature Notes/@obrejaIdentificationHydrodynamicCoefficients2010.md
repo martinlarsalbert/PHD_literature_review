@@ -53,8 +53,8 @@ dateread:
 | <mark class="hltr-purple">Purple</mark>        | Literary Note To Lookup Later |
 
 %% begin notes %%
-- First thing
-- Second thing
+- Not very much in this paper.
+
 things to add each time you import:
 
 %% end notes %%
