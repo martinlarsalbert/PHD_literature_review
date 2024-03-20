@@ -6,6 +6,7 @@
       {
         "id": "cb81f68756012e58",
         "type": "tabs",
+        "dimension": 34.89023820644558,
         "children": [
           {
             "id": "e54222ca346aaba9",
@@ -19,18 +20,6 @@
                 "source": false
               },
               "pinned": true
-            }
-          },
-          {
-            "id": "8c768b5f42108895",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "inbox/DEMOPS meetings.md",
-                "mode": "source",
-                "source": false
-              }
             }
           },
           {
@@ -62,18 +51,6 @@
             }
           },
           {
-            "id": "73038a2cda2e869b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "inbox/proof reading.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "17507711bc731458",
             "type": "leaf",
             "pinned": true,
@@ -100,45 +77,40 @@
               },
               "pinned": true
             }
-          },
+          }
+        ]
+      },
+      {
+        "id": "10a66dfbca48aa20",
+        "type": "tabs",
+        "dimension": 36.33815973843998,
+        "children": [
           {
-            "id": "39843e29a21228b6",
+            "id": "88f5b1682c074455",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "inbox/what is a model.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b157a05294778a79",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "inbox/persistence of excitation.md",
+                "file": "inbox/VCT and CMT.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 6
+        ]
       },
       {
-        "id": "3c96b5b1bb1ebf1d",
+        "id": "fc249a6a283e3470",
         "type": "tabs",
+        "dimension": 28.771602055114432,
         "children": [
           {
-            "id": "807a0507eb65a568",
+            "id": "30c9bcf3d792d30b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "50 Literature Notes/@wangOptimalDesignExcitation2020.md",
+                "file": "inbox/wave generation.md",
                 "mode": "source",
                 "source": false
               }
@@ -173,7 +145,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "file: demo",
+                "query": "file:VCT",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -194,7 +166,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 288.5
+    "width": 288.5,
+    "collapsed": true
   },
   "right": {
     "id": "a4f61f8340aaea35",
@@ -210,7 +183,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "50 Literature Notes/@wangOptimalDesignExcitation2020.md",
+                "file": "inbox/The red thread....md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -227,7 +200,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "50 Literature Notes/@wangOptimalDesignExcitation2020.md",
+                "file": "inbox/The red thread....md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -250,7 +223,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "50 Literature Notes/@wangOptimalDesignExcitation2020.md"
+                "file": "inbox/The red thread....md"
               }
             }
           }
@@ -259,7 +232,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 375.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -271,58 +244,94 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "807a0507eb65a568",
+  "floating": {
+    "id": "d101dd0e598eebda",
+    "type": "floating",
+    "children": [
+      {
+        "id": "e062a31d7381992b",
+        "type": "window",
+        "children": [
+          {
+            "id": "b64aca1a5d799071",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "dfb38422222f269c",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "50 Literature Notes/@gustafssonCaptiveTestsHave2013.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": -1306,
+        "y": 245,
+        "width": 1025,
+        "height": 801,
+        "maximize": true,
+        "zoom": 0
+      }
+    ]
+  },
+  "active": "e54222ca346aaba9",
   "lastOpenFiles": [
-    "inbox/Paper 4.md",
-    "80 Meta/82 Templates/ZI_template.md",
-    "50 Literature Notes/@wangOptimalDesignExcitation2020.md",
-    "50 Literature Notes/@sutuloAlgorithmOfflineIdentification2014.md",
-    "50 Literature Notes/@skjetneNonlinearShipManoeuvering2004.md",
-    "inbox/persistence of excitation.md",
-    "50 Literature Notes/@obrejaIdentificationHydrodynamicCoefficients2010.md",
-    "inbox/DEMOPS meetings.md",
-    "inbox/2024-03-14.md",
-    "inbox/2024-03-12.md",
-    "inbox/d2e2f.md",
+    "50 Literature Notes/@gustafssonCaptiveTestsHave2013.md",
     "inbox/The red thread....md",
-    "50 Literature Notes/@alexanderssonPredictionRollMotion2021.md",
-    "inbox/2024-03-13.md",
-    "inbox/system identification.md",
-    "inbox/what is a model.md",
-    "inbox/proof reading.md",
-    "inbox/zettelkasten.md",
-    "inbox/Paper 2 System identification of Vessel Manoeuvring Models.md",
-    "inbox/Paper 1 Analysis of roll damping model scale data.md",
-    "inbox/difference method.md",
-    "inbox/optimized pseudo-random binary sequences.md",
-    "inbox/parameter identification.md",
-    "inbox/Paper 3 System identification of a physics informed ship model for better predictions in wind conditions.md",
+    "inbox/Paper 4.md",
+    "inbox/wave generation.md",
+    "inbox/VCT and CMT.md",
     "inbox/heel.md",
-    "50 Literature Notes/@takashinaCalculationofShipTurning.md",
-    "80 Meta/81 Attachments/takashinaCalculationofShipTurning/image-7-x25-y389.png",
+    "inbox/CMT wPCC.md",
+    "inbox/what is a model.md",
+    "inbox/persistence of excitation.md",
+    "inbox/CMT.md",
+    "attachments/70.01_NSTL_CMT.CMT_NSTL_Nv.svg",
+    "attachments/70.01_NSTL_CMT.CMT_NSTL_Yr.svg",
+    "attachments/70.01_NSTL_CMT.CMT_NSTL_Yv.svg",
+    "50 Literature Notes/@alexanderssonVIRTUALCAPTIVETESTS2018.md",
+    "inbox/DEMOPS meetings.md",
+    "80 Meta/81 Attachments/gustafssonCaptiveTestsHave2013/image-47-x95-y168.png",
+    "80 Meta/81 Attachments/gustafssonCaptiveTestsHave2013/image-43-x85-y163.png",
+    "80 Meta/81 Attachments/gustafssonCaptiveTestsHave2013/image-41-x95-y167.png",
+    "80 Meta/81 Attachments/gustafssonCaptiveTestsHave2013",
+    "80 Meta/81 Attachments/alexanderssonVIRTUALCAPTIVETESTS2018/image-32-x72-y136.png",
+    "80 Meta/81 Attachments/alexanderssonVIRTUALCAPTIVETESTS2018",
+    "attachments/69_wPCC_roll.wPCC_turning_circle_roll.svg",
+    "attachments/69_wPCC_roll.wPCC_zigzag_roll.svg",
+    "inbox/virtual captive tests.md",
+    "inbox/2024-03-18.md",
+    "attachments/68.03_wPCC_captive.CMT_wPCC_heel.svg",
+    "inbox/d2e2f.md",
+    "inbox/2024-03-12.md",
+    "50 Literature Notes/@wangOptimalDesignExcitation2020.md",
+    "inbox/proof reading.md",
+    "80 Meta/81 Attachments/wangOptimalDesignExcitation2020",
+    "inbox/generalization.md",
+    "inbox/optimized pseudo-random binary sequences.md",
+    "inbox/system identification.md",
+    "inbox/parameter drift.md",
+    "inbox/multicollinearity.md",
+    "inbox/zettelkasten.md",
+    "80 Meta/82 Templates/ZI_template.md",
     "80 Meta/81 Attachments/takashinaCalculationofShipTurning",
-    "80 Meta/81 Attachments/revestidoherreroTwostepIdentificationNonlinear2012/image-8-x42-y453.png",
     "80 Meta/81 Attachments/revestidoherreroTwostepIdentificationNonlinear2012",
-    "attachments/Pasted image 20240312131253.png",
-    "80 Meta/81 Attachments/luoParameterIdentificationShip2016/image-5-x308-y736.png",
-    "80 Meta/81 Attachments/luoParameterIdentificationShip2016/image-6-x56-y562.png",
     "80 Meta/81 Attachments/luoParameterIdentificationShip2016",
-    "80 Meta/81 Attachments/sutuloAlgorithmOfflineIdentification2014/image-6-x46-y276.png",
-    "80 Meta/81 Attachments/sutuloAlgorithmOfflineIdentification2014/image-5-x301-y351.png",
     "80 Meta/81 Attachments/sutuloAlgorithmOfflineIdentification2014",
-    "80 Meta/81 Attachments/skjetneNonlinearShipManoeuvering2004/image-5-x218-y253.png",
-    "80 Meta/81 Attachments/skjetneNonlinearShipManoeuvering2004/image-10-x207-y491.png",
     "80 Meta/81 Attachments/skjetneNonlinearShipManoeuvering2004",
-    "80 Meta/81 Attachments/alexanderssonSystemIdentificationPhysicsinformed/image-9-x196-y488.png",
     "80 Meta/81 Attachments/alexanderssonSystemIdentificationPhysicsinformed",
     "PhD Thesis.json",
     "inbox/Paper 2 canvas.canvas",
-    "inbox/attachments",
-    "inbox/publish.css",
     "inbox/flowchart.canvas",
     "inbox/@Paper 2 canvas.canvas",
     "inbox/Untitled.canvas",
-    "inbox/PhD Thesis.json",
     "Paper 2 canvas.canvas",
     "@Paper 2 canvas.canvas",
     "Untitled.canvas",

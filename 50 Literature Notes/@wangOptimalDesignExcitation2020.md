@@ -41,6 +41,22 @@ dateread:
 > 
 # Notes
 
+%% begin notes %%
+This paper aims at developing a <mark class="hltr-yellow">"pseudo-random sequence”</mark> [Page 1](zotero://open-pdf/library/items/T97MC9QL?page=1&annotation=5DWZ65XL)  (also see [[optimized pseudo-random binary sequences]]) to enrichen the dynamic information within the data. 
+
+![[80 Meta/81 Attachments/wangOptimalDesignExcitation2020/image-4-x34-y613.png|400]] 
+ 
+<mark class="hltr-yellow">"It is suggested that engineers give training data a greater role in ship identification modelling”</mark> [Page 9](zotero://open-pdf/library/items/T97MC9QL?page=9&annotation=98T56KRU) 
+<mark class="hltr-yellow">"design of experiments (DOE), is critical for identification modelling”</mark> [Page 2](zotero://open-pdf/library/items/T97MC9QL?page=2&annotation=A2MK4DYS)
+<mark class="hltr-yellow">"The amount of information is quantified by the D-optimality criterion”</mark> [Page 1](zotero://open-pdf/library/items/T97MC9QL?page=1&annotation=5YABI27R) 
+There is also something called the <mark class="hltr-yellow">"Fisher Information matrix”</mark> [Page 3](zotero://open-pdf/library/items/T97MC9QL?page=3&annotation=ACBUK4R8).
+
+%% end notes %%
+
+>.
+
+ ## Annotations
+
 | <mark class="hltr-grey">Highlight Color</mark> | Meaning                       |
 | ---------------------------------------------- | ----------------------------- |
 | <mark class="hltr-red">Red</mark>              | Disagree with Author          |
@@ -49,17 +65,11 @@ dateread:
 | <mark class="hltr-green">Green</mark>          | Important To Me               |
 | <mark class="hltr-blue">Blue</mark>            | Notes After Initial Iteration |
 | <mark class="hltr-purple">Purple</mark>        | Literary Note To Lookup Later |
+|                                                |                               |
 
-%% begin notes %%
-This paper aims at developing a <mark class="hltr-yellow">"pseudo-random sequence”</mark> [Page 1](zotero://open-pdf/library/items/T97MC9QL?page=1&annotation=5DWZ65XL)  (also see [[optimized pseudo-random binary sequences]]) to get richer dynamic information in the data. 
-<mark class="hltr-yellow">"design of experiments (DOE), is critical for identification modelling”</mark> [Page 2](zotero://open-pdf/library/items/T97MC9QL?page=2&annotation=A2MK4DYS)
-
-%% end notes %%
-
->.
- 
- Annotations
 - <mark class="hltr-yellow">"pseudo-random sequence”</mark> [Page 1](zotero://open-pdf/library/items/T97MC9QL?page=1&annotation=5DWZ65XL) 
+ 
+- <mark class="hltr-yellow">"The amount of information is quantified by the D-optimality criterion”</mark> [Page 1](zotero://open-pdf/library/items/T97MC9QL?page=1&annotation=5YABI27R) 
  
 - <mark class="hltr-yellow">"D-optimality criterion”</mark> [Page 1](zotero://open-pdf/library/items/T97MC9QL?page=1&annotation=LEY5FRET) 
  
@@ -101,6 +111,8 @@ This paper aims at developing a <mark class="hltr-yellow">"pseudo-random sequenc
  
 - <mark class="hltr-yellow">"D-optimality”</mark> [Page 4](zotero://open-pdf/library/items/T97MC9QL?page=4&annotation=272QRFRW) 
  
+![[80 Meta/81 Attachments/wangOptimalDesignExcitation2020/image-4-x34-y613.png]] 
+ 
 - <mark class="hltr-yellow">"excitation signal”</mark> [Page 9](zotero://open-pdf/library/items/T97MC9QL?page=9&annotation=DM3H4ZVM) 
  
 - <mark class="hltr-yellow">"system identification”</mark> [Page 9](zotero://open-pdf/library/items/T97MC9QL?page=9&annotation=MSLAREH7) 
@@ -113,4 +125,4 @@ This paper aims at developing a <mark class="hltr-yellow">"pseudo-random sequenc
  
 
 
-%% Import Date: 2024-03-15T08:22:11.837+01:00 %%
+%% Import Date: 2024-03-15T10:38:51.742+01:00 %%
